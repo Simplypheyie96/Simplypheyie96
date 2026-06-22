@@ -37,17 +37,19 @@ const feyikemi = {
   identity    : "Left-handed designer — where empathy meets craft. 🖊️",
   learning    : "Frontend engineering — HTML, CSS, React, TypeScript",
   aiCraft     : {
-    design    : "Specialised in AI-native product design — LLM interaction models, agentic UX & intelligent interfaces",
-    tooling   : "Fluent with AI development agents: Claude Code, Cursor AI & GitHub Copilot"
+    design    : "AI-native product design — LLM interaction models, " +
+                "agentic UX & intelligent interfaces",
+    tooling   : "Fluent with AI agents: Claude Code · Cursor AI · Copilot"
   },
   building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
   skills      : {
-    design  : ["Figma", "UX Research", "Prototyping", "Design Systems", "Case Studies"],
-    frontend: ["HTML/CSS", "React", "TypeScript (learning)", "TailwindCSS"],
+    design  : ["Figma", "UX Research", "Prototyping", "Design Systems"],
+    frontend: ["HTML/CSS", "React", "TypeScript (learning)", "Tailwind"],
     backend : ["Supabase", "Node.js", "Hono"],
     tools   : ["Git", "Vercel", "shadcn/ui", "Notion", "FigJam"]
   },
-  funFact     : "Left-handed in a right-handed world — it's why I design for everyone 🌍",
+  funFact     : "Left-handed in a right-handed world — " +
+                "it's why I design for everyone 🌍",
   portfolio   : "https://simplypheyie.tilda.ws"
 };
 ```
@@ -65,13 +67,13 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🗺️ The Journey
 
 ```
-🎨  Design ──────────────────────────── ██████████ 90%   ✅ Comfortable
-🔍  UX Research ─────────────────────── █████████░ 85%   ✅ Comfortable
-⚡  Figma ───────────────────────────── ██████████ 95%   ✅ Comfortable
-🌐  HTML & CSS ──────────────────────── ████████░░ 75%   🔨 Building
-⚛️  React + TypeScript ──────────────── █████░░░░░ 50%   📚 Learning
-🎨  TailwindCSS ─────────────────────── ██████░░░░ 60%   🔨 Building
-🛠️  Backend (Supabase / Node) ─────────── ███░░░░░░░ 30%   🌱 Exploring
+🎨  Design              ██████████ 90%   ✅ Comfortable
+🔍  UX Research         █████████░ 85%   ✅ Comfortable
+⚡  Figma               ██████████ 95%   ✅ Comfortable
+🌐  HTML & CSS          ████████░░ 75%   🔨 Building
+⚛️  React + TypeScript  █████░░░░░ 50%   📚 Learning
+🎨  TailwindCSS         ██████░░░░ 60%   🔨 Building
+🛠️  Backend             ███░░░░░░░ 30%   🌱 Exploring
 ```
 
 ---
