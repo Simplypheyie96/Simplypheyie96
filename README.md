@@ -2,16 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<table align="center" border="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="55%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I'm+Feyikemi+%F0%9F%8E%A8;UX+Designer+%2B+Frontend+Developer;Building+beautiful+experiences+%E2%9C%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB" alt="Typing SVG" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
+  &nbsp;
   <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=1a1a2e" /></a>
 </td>
 <td align="center" width="45%">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="260" alt="coder anime girl" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="260" alt="anime girl doing webdev" />
 </td>
 </tr>
 </table>
@@ -106,7 +107,9 @@ const feyikemi = {
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YDC0sq2VD45zr2gkrn/giphy.gif" width="280" alt="Blackpink Lisa" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="200" alt="girl typing on laptop" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="260" alt="Blackpink Lisa" />
   <br/><br/>
   <sub>✨ stay cute, stay coded ✨</sub>
 </div>
