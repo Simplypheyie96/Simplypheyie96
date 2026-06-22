@@ -91,5 +91,5 @@ const feyikemi = {
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
