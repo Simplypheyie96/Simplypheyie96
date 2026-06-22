@@ -37,29 +37,26 @@ jobs:
                   # Strip series info like "(Series, #N)"
                   title = re.sub(r'\s*\(.*?\)\s*$', '', raw_title).strip()
 
-                  # Author is in the description content — extract via regex
-                  desc_el = items[0].find('description')
-                  desc = desc_el.text if desc_el is not None else ""
-                  author_match = re.search(r'author: ([^<\n]+)', desc, re.IGNORECASE)
-                  if not author_match:
-                      # Try content:encoded
-                      for child in items[0]:
-                          if 'encoded' in child.tag and child.text:
-                              author_match = re.search(r'author: ([^<\n]+)', child.text, re.IGNORECASE)
-                              if author_match:
-                                  break
-                  author = author_match.group(1).strip() if author_match else ""
+                  # Try to find author in description or content:encoded
+                  author = ""
+                  for tag in ['description', '{http://purl.org/rss/1.0/modules/content/}encoded']:
+                      el = items[0].find(tag)
+                      if el is not None and el.text:
+                          m = re.search(r'author:\s*([^<\n]+)', el.text, re.IGNORECASE)
+                          if m:
+                              author = m.group(1).strip()
+                              break
 
                   if author:
-                      replacement = f"<i>{title}</i><br/><sub>{author}</sub>"
+                      replacement = f"*{title}* — {author}"
                   else:
-                      replacement = f"<i>{title}</i>"
+                      replacement = f"*{title}*"
               else:
-                  replacement = "<i>Between books 📖</i>"
+                  replacement = "Between books 📖"
 
           except Exception as e:
               print(f"Error fetching RSS: {e}")
-              exit(0)  # don't fail the workflow, just skip update
+              exit(0)
 
           with open('README.md', 'r', encoding='utf-8') as f:
               readme = f.read()
@@ -68,11 +65,11 @@ jobs:
           new_readme = re.sub(pattern, rf'\g<1>{replacement}\g<2>', readme, flags=re.DOTALL)
 
           if new_readme == readme:
-              print("No change detected, skipping commit.")
+              print("No change detected.")
           else:
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(new_readme)
-              print(f"Updated currently reading to: {replacement}")
+              print(f"Updated to: {replacement}")
           PYEOF
 
       - name: Commit if changed
@@ -81,4 +78,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet && echo "Nothing to commit" || \
-            git commit -m "📚 update: currently reading from Goodreads" && git push
+            (git commit -m "📚 update: currently reading from Goodreads" && git push)
