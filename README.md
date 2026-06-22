@@ -5,12 +5,13 @@
 
 <br/>
 
-<!-- Float GIF right so text wraps naturally on the left -->
-<img align="right" src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="300" alt="anime girl coder" />
+<table border="0" cellpadding="20" cellspacing="0" width="100%">
+<tr>
+<td width="60%" valign="middle">
 
-## Hey there! This is Feyikemi Mabel 👋🏽😊
+<h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=460&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=440&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,7 +23,12 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
 
-<br/><br/><br/><br/>
+</td>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="300" alt="anime girl coder" />
+</td>
+</tr>
+</table>
 
 ```javascript
 const feyikemi = {
@@ -112,7 +118,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
   <td align="center" width="25%">📖<br/><b>Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
 </tr>
 <tr>
-  <td align="center">🎵<br/><b>Music</b><br/><sub>K-pop<br/>(Blackpink forever 💜)</sub></td>
+  <td align="center">🎵<br/><b>Music</b><br/><a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1?si=3e19e2bd27cc4693"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" /></a>&nbsp;<a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=apple-music&logoColor=white" /></a></td>
   <td align="center">✍️<br/><b>Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
   <td align="center">🖊️<br/><b>Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
   <td align="center">🧩<br/><b>Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
@@ -138,13 +144,15 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" /></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" /></td>
+</tr>
+</table>
 
 ---
 
