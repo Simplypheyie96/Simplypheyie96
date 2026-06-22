@@ -67,7 +67,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🗺️ The Journey
 
 ```
-🎨  Design              ██████████ 90%   ✅ Comfortable
+🎨  Design              ██████████ 95%   ✅ Comfortable
 🔍  UX Research         █████████░ 85%   ✅ Comfortable
 ⚡  Figma               ██████████ 95%   ✅ Comfortable
 🌐  HTML & CSS          ████████░░ 75%   🔨 Building
