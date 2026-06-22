@@ -1,0 +1,84 @@
+name: Update Currently Reading
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # runs daily at 6am UTC
+  workflow_dispatch:      # allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Goodreads RSS and update README
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import re
+
+          url = "https://www.goodreads.com/review/list_rss/79687941?shelf=currently-reading"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+
+          try:
+              with urllib.request.urlopen(req, timeout=15) as response:
+                  xml_content = response.read()
+
+              root = ET.fromstring(xml_content)
+              items = root.findall('.//item')
+
+              if items:
+                  title_el = items[0].find('title')
+                  raw_title = title_el.text.strip() if title_el is not None else ""
+                  # Strip series info like "(Series, #N)"
+                  title = re.sub(r'\s*\(.*?\)\s*$', '', raw_title).strip()
+
+                  # Author is in the description content — extract via regex
+                  desc_el = items[0].find('description')
+                  desc = desc_el.text if desc_el is not None else ""
+                  author_match = re.search(r'author: ([^<\n]+)', desc, re.IGNORECASE)
+                  if not author_match:
+                      # Try content:encoded
+                      for child in items[0]:
+                          if 'encoded' in child.tag and child.text:
+                              author_match = re.search(r'author: ([^<\n]+)', child.text, re.IGNORECASE)
+                              if author_match:
+                                  break
+                  author = author_match.group(1).strip() if author_match else ""
+
+                  if author:
+                      replacement = f"<i>{title}</i><br/><sub>{author}</sub>"
+                  else:
+                      replacement = f"<i>{title}</i>"
+              else:
+                  replacement = "<i>Between books 📖</i>"
+
+          except Exception as e:
+              print(f"Error fetching RSS: {e}")
+              exit(0)  # don't fail the workflow, just skip update
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          pattern = r'(<!-- GOODREADS-CURRENTLY-READING:START -->).*?(<!-- GOODREADS-CURRENTLY-READING:END -->)'
+          new_readme = re.sub(pattern, rf'\g<1>{replacement}\g<2>', readme, flags=re.DOTALL)
+
+          if new_readme == readme:
+              print("No change detected, skipping commit.")
+          else:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_readme)
+              print(f"Updated currently reading to: {replacement}")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "Nothing to commit" || \
+            git commit -m "📚 update: currently reading from Goodreads" && git push
