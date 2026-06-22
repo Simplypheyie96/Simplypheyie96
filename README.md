@@ -172,10 +172,6 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&hide_border=true&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="100%" />
-
 ---
 
 ## 🎮 Pac-Man eats my contributions
@@ -193,11 +189,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/Simplypheyie96/Simplypheyie96/pull/1) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
-3. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-4. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
-5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+1. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+2. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+3. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+5. 💪 Opened PR [#5](https://github.com/Simplypheyie96/Playlog/pull/5) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
 <!--END_SECTION:activity-->
 
 ---
