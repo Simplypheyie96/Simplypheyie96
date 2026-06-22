@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=%3C%20Feyikemi%20Mabel%20%2F%3E&fontSize=52&fontColor=a855f7&animation=blinking&fontAlignY=38&desc=%E2%9C%A6%20UX%20Designer%20%7C%20Frontend%20Developer%20%E2%9C%A6&descSize=20&descAlignY=60&descColor=e2e8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Feyikemi%20Mabel&fontSize=55&fontColor=a855f7&animation=twinkling&desc=UX%20Designer%20%7C%20Frontend%20Developer&descSize=20&descColor=e2e8f0" width="100%" />
 </div>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
@@ -117,5 +117,5 @@ const feyikemi = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 </div>
