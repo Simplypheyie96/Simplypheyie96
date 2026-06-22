@@ -34,8 +34,12 @@
 const feyikemi = {
   role        : "Lead Product Designer",
   workplace   : "IQ.wiki",
-  identity    : "Left-handed. Designer actively learning to code — with Claude Code & AI agents as pair programmers. 🖊️",
-  learning    : ["React", "TypeScript", "TailwindCSS", "Vite"],
+  identity    : "Left-handed designer — where empathy meets craft. 🖊️",
+  learning    : "Frontend engineering — HTML, CSS, React, TypeScript",
+  aiCraft     : {
+    design    : "Specialised in AI-native product design — LLM interaction models, agentic UX & intelligent interfaces",
+    tooling   : "Fluent with AI development agents: Claude Code, Cursor AI & GitHub Copilot"
+  },
   building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
   skills      : {
     design  : ["Figma", "UX Research", "Prototyping", "Design Systems", "Case Studies"],
@@ -156,9 +160,9 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
-## 📈 Activity
+## 🏆 Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border_color=a855f7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Simplypheyie96&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" width="100%" />
 
 ---
 
@@ -219,7 +223,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=✨+Check+out+my+portfolio+%E2%86%92+simplypheyie.tilda.ws;💙+Let%27s+connect+on+LinkedIn;🎨+Open+to+design+%26+product+collaborations;🚀+Always+building+something+new;🤝+Let%27s+create+something+great+together;🖊️+Left-handed+%26+proud+of+it" alt="rotating message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=A855F7&center=true&vCenter=true&width=540&lines=Let%27s+build+something+unforgettable+together;Open+to+design+%26+AI+product+collaborations;Find+me+on+LinkedIn+%E2%80%94+let%27s+connect;Explore+my+portfolio+%E2%86%92+simplypheyie.tilda.ws;Designing+thoughtfully%2C+building+intentionally;Reach+out+%E2%80%94+I%27d+love+to+hear+from+you" alt="Let's connect" />
 </div>
 
 <br/>
@@ -231,5 +235,5 @@ Today, I design complex digital products with a focus on clarity, structure, and
 |  _| | |___  | |  | || . \| |___| |  | || |
 |_|   |_____| |_| |___|_|\_\_____|_|  |_|___|
 
-[SYSTEM]: Initialization successful. Welcome to my digital workspace.
+[~]: End of profile. Thanks for stopping by — now let's make something together.
 ```
