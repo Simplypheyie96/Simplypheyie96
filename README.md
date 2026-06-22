@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:D946EF,100:EC4899&height=220&section=header&text=Feyikemi%20Mabel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UX%20Designer%20%E2%9C%A8%20Frontend%20Developer&descSize=22&descAlignY=58&descColor=ffffff" width="100%" />
 </div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -59,7 +59,7 @@ const feyikemi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" />
 </div>
 
@@ -107,9 +107,9 @@ const feyikemi = {
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="200" alt="girl typing on laptop" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="250" alt="girl typing on laptop" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="260" alt="Blackpink Lisa" />
+  <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
   <sub>✨ stay cute, stay coded ✨</sub>
 </div>
