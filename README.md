@@ -172,9 +172,9 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=Simplypheyie96&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&hide_border=true&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="100%" />
 
 ---
 
