@@ -33,7 +33,7 @@
 const feyikemi = {
   role        : "Lead Product Designer",
   workplace   : "IQ.wiki",
-  identity    : "Left-handed. Biochemist-turned-designer. Building what I design. 🖊️",
+  identity    : "Left-handed. Designer who codes. Building what I design. 🖊️",
   learning    : ["React", "TypeScript", "TailwindCSS", "Vite"],
   building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
   skills      : {
@@ -55,7 +55,7 @@ const feyikemi = {
 
 > *I'm left-handed in a right-handed world — and honestly, that's shaped everything.*
 
-Growing up with a **biochemistry background**, I was trained to observe systems, understand how things connect, and ask *why* before *how*. When I stumbled into product design, something clicked: design is just systems thinking with pixels and empathy.
+I grew up with a natural curiosity for how things connect — always asking *why* before *how*. When I stumbled into product design, something clicked: design is just systems thinking with pixels and empathy.
 
 Being left-handed made me hyper-aware of products that weren't built for me — bad scissors, smudged ink, reversed interfaces. That friction became my superpower. **I design for the person who feels invisible in the room.** The edge case. The minority experience.
 
@@ -81,7 +81,7 @@ Now I'm learning to build what I design. One component at a time. 🌱
 
 | 📚 Reading | 🧠 Learning | 🎮 Playing | 📺 Watching |
 |:---:|:---:|:---:|:---:|
-| *The Nightingale* — Kristin Hannah | React + TypeScript | Genshin Impact | Anime (always) |
+| *The Nightingale* — Kristin Hannah | React + TypeScript | Genshin Impact | Movies & shows |
 
 ---
 
@@ -104,13 +104,13 @@ Now I'm learning to build what I design. One component at a time. 🌱
 
 ## 🌍 My World
 
-| 🎨 Design | 🎮 Gaming | 🌸 Anime | 📖 Reading |
+| 🎨 Design | 🎮 Gaming | 🎬 Movies | 📖 Reading |
 |:---:|:---:|:---:|:---:|
-| Figma, UI patterns, design systems | Genshin Impact, cozy games | Slice of life, fantasy | Fiction + UX books + essays |
+| Figma, UI patterns, design systems | Genshin Impact, cozy games | Films, cinematic worlds | Fiction + UX books + essays |
 
-| 🎵 Music | ✍️ Writing | 🌿 Wellness | 🧪 Science roots |
+| 🎵 Music | ✍️ Writing | 🖊️ Drawing & Coloring | 🧩 Solving Puzzles |
 |:---:|:---:|:---:|:---:|
-| K-pop (Blackpink forever 💜) | Case studies, journaling | Long walks, calm spaces | Biochem is forever |
+| K-pop (Blackpink forever 💜) | Case studies, journaling | Sketching, doodling, art | Logic games, crosswords |
 
 ---
 
