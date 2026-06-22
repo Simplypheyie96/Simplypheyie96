@@ -167,8 +167,8 @@ Today, I design complex digital products with a focus on clarity, structure, and
 |---------|-------------|-------|
 | 🗳️ [IQ Vote](https://github.com/Simplypheyie96/Iqvote) | Employee of the Month voting platform | React · Supabase · Vite |
 | 🎵 [VibeCafe](https://github.com/Simplypheyie96/vibecafe) | Music discovery app | React · TypeScript |
-| 🎸 [Playlog](https://github.com/Simplypheyie96/Playlog) | Track your music sessions | React · Hono |
 | 🔌 [HTML to Figma](https://github.com/Simplypheyie96/html-to-figma) | Figma plugin — render HTML inside Figma | TypeScript · Figma API |
+| 🌐 [Personal Portfolio](https://github.com/Simplypheyie96/Personal-Portfolio-Freecodecamp) | Personal portfolio site | HTML · CSS |
 
 <br/>
 
