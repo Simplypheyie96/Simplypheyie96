@@ -1,38 +1,118 @@
+<!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Feyikemi%20Mabel&fontSize=55&fontColor=a855f7&animation=twinkling&desc=UX%20Designer%20%7C%20Frontend%20Developer&descSize=20&descColor=e2e8f0" width="100%" />
+  <img src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" width="100%" alt="tech banner" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="300" alt="anime girl coder" />
-</div>
+<!-- RUNNING MASCOT + HERO CONTENT -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td width="60%" valign="middle" align="left">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=const+role+%3D+%22UX+Designer%22;const+stack+%3D+%5B%22React%22%2C+%22TypeScript%22%5D;building+pixel-perfect+UIs+%F0%9F%8E%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB;always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
-  &nbsp;
-  <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=0f0c29" /></a>
-</div>
+<h2>Hey there! This is Feyikemi Mabel 👋🏽😊</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=520&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://simplypheyie.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
+&nbsp;
+<a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=0f0c29" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
+
+</td>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="280" alt="anime girl coder" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 ```javascript
 const feyikemi = {
-  role        : ["UX Designer", "Frontend Developer"],
-  currentFocus: "Crafting pixel-perfect UIs & delightful user experiences",
-  building    : ["Figma plugins", "Web apps with React + TypeScript"],
+  role        : "Lead Product Designer",
+  workplace   : "IQ.wiki",
+  identity    : "Left-handed. Biochemist-turned-designer. Building what I design. 🖊️",
+  learning    : ["React", "TypeScript", "TailwindCSS", "Vite"],
+  building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
   skills      : {
-    design  : ["Figma", "UX Research", "Prototyping", "Case Studies"],
-    frontend: ["React", "TypeScript", "Vite", "TailwindCSS", "HTML/CSS"],
+    design  : ["Figma", "UX Research", "Prototyping", "Design Systems", "Case Studies"],
+    frontend: ["HTML/CSS", "React", "TypeScript (learning)", "TailwindCSS"],
     backend : ["Supabase", "Node.js", "Hono"],
-    tools   : ["Git", "Vercel", "shadcn/ui"]
+    tools   : ["Git", "Vercel", "shadcn/ui", "Notion", "FigJam"]
   },
-  funFact     : "I design AND code — both sides of the pixel 🎨💻",
+  funFact     : "Left-handed in a right-handed world — it's why I design for everyone 🌍",
   portfolio   : "https://simplypheyie.tilda.ws"
 };
 ```
 
 <br/>
+
+---
+
+## 📖 My Story
+
+> *I'm left-handed in a right-handed world — and honestly, that's shaped everything.*
+
+Growing up with a **biochemistry background**, I was trained to observe systems, understand how things connect, and ask *why* before *how*. When I stumbled into product design, something clicked: design is just systems thinking with pixels and empathy.
+
+Being left-handed made me hyper-aware of products that weren't built for me — bad scissors, smudged ink, reversed interfaces. That friction became my superpower. **I design for the person who feels invisible in the room.** The edge case. The minority experience.
+
+Now I'm learning to build what I design. One component at a time. 🌱
+
+---
+
+## 🗺️ The Journey
+
+```
+🎨  Design ──────────────────────────── ██████████ 90%   ✅ Comfortable
+🔍  UX Research ─────────────────────── █████████░ 85%   ✅ Comfortable
+⚡  Figma ───────────────────────────── ██████████ 95%   ✅ Comfortable
+🌐  HTML & CSS ──────────────────────── ████████░░ 75%   🔨 Building
+⚛️  React + TypeScript ──────────────── █████░░░░░ 50%   📚 Learning
+🎨  TailwindCSS ─────────────────────── ██████░░░░ 60%   🔨 Building
+🛠️  Backend (Supabase / Node) ─────────── ███░░░░░░░ 30%   🌱 Exploring
+```
+
+---
+
+## 🌙 Currently
+
+| 📚 Reading | 🧠 Learning | 🎮 Playing | 📺 Watching |
+|:---:|:---:|:---:|:---:|
+| *The Nightingale* — Kristin Hannah | React + TypeScript | Genshin Impact | Anime (always) |
+
+---
+
+## 📚 Bookshelf
+
+**Design & craft**
+
+[![Refactoring UI](https://img.shields.io/badge/Refactoring_UI-Tailwind_Team-a855f7?style=flat)](https://www.refactoringui.com)
+[![Laws of UX](https://img.shields.io/badge/Laws_of_UX-Jon_Yablonski-a855f7?style=flat)](https://lawsofux.com)
+[![About Face 3](https://img.shields.io/badge/About_Face_3-Alan_Cooper-a855f7?style=flat)](https://www.goodreads.com/book/show/289062)
+[![Steal Like an Artist](https://img.shields.io/badge/Steal_Like_an_Artist-Austin_Kleon-a855f7?style=flat)](https://austinkleon.com/steal)
+
+**Fiction I love**
+
+[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/book/show/41886271)
+[![Americanah](https://img.shields.io/badge/Americanah-Chimamanda_Adichie-302b63?style=flat)](https://www.goodreads.com/book/show/15796700)
+[![The Nightingale](https://img.shields.io/badge/The_Nightingale-Kristin_Hannah-302b63?style=flat)](https://www.goodreads.com/book/show/21853621)
+
+---
+
+## 🌍 My World
+
+| 🎨 Design | 🎮 Gaming | 🌸 Anime | 📖 Reading |
+|:---:|:---:|:---:|:---:|
+| Figma, UI patterns, design systems | Genshin Impact, cozy games | Slice of life, fantasy | Fiction + UX books + essays |
+
+| 🎵 Music | ✍️ Writing | 🌿 Wellness | 🧪 Science roots |
+|:---:|:---:|:---:|:---:|
+| K-pop (Blackpink forever 💜) | Case studies, journaling | Long walks, calm spaces | Biochem is forever |
+
+---
 
 ## 🛠️ Tech & Tools
 
@@ -108,7 +188,7 @@ const feyikemi = {
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
-  <sub>✨ stay cute, stay coded ✨</sub>
+  <sub>✨ designed by hand · coded with heart ✨</sub>
 </div>
 
 <br/>
