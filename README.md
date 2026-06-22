@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=440&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=400&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Pixel-perfect+UIs+%26+products+%F0%9F%8E%A8;Designing+with+empathy+%E2%9C%A8;Always+learning%2C+always+creating" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -94,17 +94,17 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 [![Refactoring UI](https://img.shields.io/badge/Refactoring_UI-Tailwind_Team-a855f7?style=flat)](https://www.refactoringui.com)
 [![Laws of UX](https://img.shields.io/badge/Laws_of_UX-Jon_Yablonski-a855f7?style=flat)](https://lawsofux.com)
-[![About Face 3](https://img.shields.io/badge/About_Face_3-Alan_Cooper-a855f7?style=flat)](https://www.goodreads.com/book/show/289062)
+[![About Face 3](https://img.shields.io/badge/About_Face_3-Alan_Cooper-a855f7?style=flat)](https://www.goodreads.com/search?q=About+Face+3+Alan+Cooper)
 [![Steal Like an Artist](https://img.shields.io/badge/Steal_Like_an_Artist-Austin_Kleon-a855f7?style=flat)](https://austinkleon.com/steal)
 
 **Fiction I love**
 
-[![Babel](https://img.shields.io/badge/Babel-R.F._Kuang-302b63?style=flat)](https://www.goodreads.com/book/show/57945316)
-[![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/book/show/68428)
-[![Americanah](https://img.shields.io/badge/Americanah-Chimamanda_Adichie-302b63?style=flat)](https://www.goodreads.com/book/show/15796700)
-[![Anxious People](https://img.shields.io/badge/Anxious_People-Fredrik_Backman-302b63?style=flat)](https://www.goodreads.com/book/show/49534394)
-[![My Dark Vanessa](https://img.shields.io/badge/My_Dark_Vanessa-Kate_E._Russell-302b63?style=flat)](https://www.goodreads.com/book/show/44890081)
-[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/book/show/41886271)
+[![Babel](https://img.shields.io/badge/Babel-R.F._Kuang-302b63?style=flat)](https://www.goodreads.com/search?q=Babel+RF+Kuang)
+[![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/search?q=Mistborn+Brandon+Sanderson)
+[![Americanah](https://img.shields.io/badge/Americanah-Chimamanda_Adichie-302b63?style=flat)](https://www.goodreads.com/search?q=Americanah+Chimamanda+Adichie)
+[![Anxious People](https://img.shields.io/badge/Anxious_People-Fredrik_Backman-302b63?style=flat)](https://www.goodreads.com/search?q=Anxious+People+Fredrik+Backman)
+[![My Dark Vanessa](https://img.shields.io/badge/My_Dark_Vanessa-Kate_E._Russell-302b63?style=flat)](https://www.goodreads.com/search?q=My+Dark+Vanessa+Kate+Russell)
+[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/search?q=The+Sword+of+Kaigen+ML+Wang)
 
 ---
 
@@ -164,11 +164,13 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🎮 Pac-Man eats my contributions
 
+<div width="100%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman.svg" />
-  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman.svg" width="100%" />
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman-dark.svg" width="100%" />
 </picture>
+</div>
 
 ---
 
@@ -210,6 +212,12 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
-</div>
+```
+ _____ _______   _____ _  _______ __  __ ___
+|  ___| ____\ \ / /_ _| |/ / ____|  \/  |_ _|
+| |_  |  _|  \ V / | || ' /|  _| | |\/| || |
+|  _| | |___  | |  | || . \| |___| |  | || |
+|_|   |_____| |_| |___|_|\_\_____|_|  |_|___|
+
+[SYSTEM]: Initialization successful. Welcome to my digital workspace.
+```
