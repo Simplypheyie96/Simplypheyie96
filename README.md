@@ -5,14 +5,12 @@
 
 <br/>
 
-<!-- HERO CONTENT: greeting left, GIF right -->
-<table border="0" width="100%" cellpadding="12" cellspacing="0">
-<tr>
-<td width="58%" valign="middle">
+<!-- Float GIF right so text wraps naturally on the left -->
+<img align="right" src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="300" alt="anime girl coder" />
 
-<h2>Hey there! This is Feyikemi Mabel 👋🏽😊</h2>
+## Hey there! This is Feyikemi Mabel 👋🏽😊
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=500&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=460&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,14 +22,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
 
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="280" alt="anime girl coder" />
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/><br/><br/>
 
 ```javascript
 const feyikemi = {
@@ -77,10 +68,15 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🌙 Currently
 
-📚 **Reading** &nbsp;— <!-- GOODREADS-CURRENTLY-READING:START -->*Fifty-Fifty* — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END -->
-🧠 **Learning** — React + TypeScript
-🎮 **Playing** &nbsp;— Where Wind Meets
-🎬 **Watching** — Movies & shows
+<table border="0" cellpadding="6" cellspacing="0">
+<tr>
+  <td>📚 <b>Reading</b></td>
+  <td><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
+</tr>
+<tr><td>🧠 <b>Learning</b></td><td>React + TypeScript</td></tr>
+<tr><td>🎮 <b>Playing</b></td><td>Where Wind Meets</td></tr>
+<tr><td>🎬 <b>Watching</b></td><td>Movies & shows</td></tr>
+</table>
 
 <sub><i>📚 Reading updates automatically from <a href="https://www.goodreads.com/review/list/79687941-simplypheyie">Goodreads</a> every day</i></sub>
 
@@ -108,20 +104,24 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🌍 My World
 
-🎨 **Design** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figma, UI patterns, design systems
-🎮 **Gaming** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where Wind Meets, cozy games
-🎬 **Movies** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Films, cinematic worlds
-📖 **Reading** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fiction, UX books, essays
-🎵 **Music** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; K-pop (Blackpink forever 💜)
-✍️ **Writing** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Case studies, journaling
-🖊️ **Drawing & Coloring** &nbsp; Sketching, doodling, art
-🧩 **Solving Puzzles** &nbsp;&nbsp;&nbsp;&nbsp; Logic games, crosswords
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr>
+  <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
+  <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Where Wind Meets,<br/>cozy games</sub></td>
+  <td align="center" width="25%">🎬<br/><b>Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
+  <td align="center" width="25%">📖<br/><b>Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
+</tr>
+<tr>
+  <td align="center">🎵<br/><b>Music</b><br/><sub>K-pop<br/>(Blackpink forever 💜)</sub></td>
+  <td align="center">✍️<br/><b>Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
+  <td align="center">🖊️<br/><b>Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
+  <td align="center">🧩<br/><b>Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech & Tools
-
-<div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -134,32 +134,35 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
-
-<br/>
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
-<br/>
+---
 
 ## 📈 Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border_color=a855f7" width="95%" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border_color=a855f7" width="95%" />
 
-<br/>
+---
+
+## 🎮 Pac-Man eats my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman.svg" />
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman.svg" width="100%" />
+</picture>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -170,26 +173,24 @@ Today, I design complex digital products with a focus on clarity, structure, and
 | 🔌 [HTML to Figma](https://github.com/Simplypheyie96/html-to-figma) | Figma plugin — render HTML inside Figma | TypeScript · Figma API |
 | 🌐 [Personal Portfolio](https://github.com/Simplypheyie96/Personal-Portfolio-Freecodecamp) | Personal portfolio site | HTML · CSS |
 
-<br/>
+---
 
 ## 🤝 Connect with me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/feyikemi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Simplypheyie">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://simplypheyie.tilda.ws">
-    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://github.com/Simplypheyie96">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/feyikemi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/Simplypheyie">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://simplypheyie.tilda.ws">
+  <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://github.com/Simplypheyie96">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif" width="250" alt="squishy slime" />
