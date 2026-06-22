@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" width="100%" alt="tech banner" />
+  <img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/banner.gif" width="100%" alt="tech banner" />
 </div>
 
 <br/>
@@ -174,7 +174,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Simplypheyie96&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Simplypheyie96&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=8" width="100%" />
 
 ---
 
