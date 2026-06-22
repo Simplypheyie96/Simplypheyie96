@@ -105,12 +105,22 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 **Fiction I love**
 
-[![Babel](https://img.shields.io/badge/Babel-R.F._Kuang-302b63?style=flat)](https://www.goodreads.com/search?q=Babel+RF+Kuang)
-[![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/search?q=Mistborn+Brandon+Sanderson)
-[![Americanah](https://img.shields.io/badge/Americanah-Chimamanda_Adichie-302b63?style=flat)](https://www.goodreads.com/search?q=Americanah+Chimamanda+Adichie)
-[![Anxious People](https://img.shields.io/badge/Anxious_People-Fredrik_Backman-302b63?style=flat)](https://www.goodreads.com/search?q=Anxious+People+Fredrik+Backman)
-[![My Dark Vanessa](https://img.shields.io/badge/My_Dark_Vanessa-Kate_E._Russell-302b63?style=flat)](https://www.goodreads.com/search?q=My+Dark+Vanessa+Kate+Russell)
-[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/search?q=The+Sword+of+Kaigen+ML+Wang)
+[![Americanah](https://img.shields.io/badge/Americanah-Adichie-302b63?style=flat)](https://www.goodreads.com/book/show/15796700-americanah)
+[![Redeeming Love](https://img.shields.io/badge/Redeeming_Love-Francine_Rivers-302b63?style=flat)](https://www.goodreads.com/book/show/11422.Redeeming_Love)
+[![My Dark Vanessa](https://img.shields.io/badge/My_Dark_Vanessa-Kate_E._Russell-302b63?style=flat)](https://www.goodreads.com/book/show/44890081-my-dark-vanessa)
+[![I Had That Same Dream Again](https://img.shields.io/badge/I_Had_That_Same_Dream_Again-Yoru_Sumino-302b63?style=flat)](https://www.goodreads.com/book/show/48672814-i-had-that-same-dream-again)
+[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/book/show/41886271-the-sword-of-kaigen)
+[![Anxious People](https://img.shields.io/badge/Anxious_People-Fredrik_Backman-302b63?style=flat)](https://www.goodreads.com/book/show/49127718-anxious-people)
+[![Babel](https://img.shields.io/badge/Babel-R.F._Kuang-302b63?style=flat)](https://www.goodreads.com/book/show/57945316-babel)
+[![A Fate Inked in Blood](https://img.shields.io/badge/A_Fate_Inked_in_Blood-D.L._Jensen-302b63?style=flat)](https://www.goodreads.com/book/show/165940202-a-fate-inked-in-blood)
+[![One True Loves](https://img.shields.io/badge/One_True_Loves-Taylor_Jenkins_Reid-302b63?style=flat)](https://www.goodreads.com/book/show/27189194-one-true-loves)
+[![Conversations with Friends](https://img.shields.io/badge/Conversations_with_Friends-Sally_Rooney-302b63?style=flat)](https://www.goodreads.com/book/show/32187419-conversations-with-friends)
+[![Atmosphere](https://img.shields.io/badge/Atmosphere-302b63?style=flat)](https://www.goodreads.com/book/show/220817728-atmosphere)
+[![The Everlasting](https://img.shields.io/badge/The_Everlasting-302b63?style=flat)](https://www.goodreads.com/book/show/225699786-the-everlasting)
+[![The Return](https://img.shields.io/badge/The_Return-Nicholas_Sparks-302b63?style=flat)](https://www.goodreads.com/book/show/50884911-the-return)
+[![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/book/show/68428.Mistborn)
+[![My Husband](https://img.shields.io/badge/My_Husband-302b63?style=flat)](https://www.goodreads.com/book/show/63017297-my-husband)
+[![Mindfck Series](https://img.shields.io/badge/Mindf%2Ack_Series-S.T._Abby-302b63?style=flat)](https://www.goodreads.com/book/show/44799982-the-mindf-ck-series)
 
 ---
 
