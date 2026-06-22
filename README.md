@@ -53,13 +53,9 @@ const feyikemi = {
 
 ## 📖 My Story
 
-> *I'm left-handed in a right-handed world — and honestly, that's shaped everything.*
+I became curious about design long before I knew what product design was. Growing up left-handed made me constantly notice how everyday experiences — from classroom chairs to simple tools — were often designed without certain users in mind. That curiosity eventually evolved into a passion for creating products that feel intuitive, accessible, and genuinely thoughtful.
 
-I grew up with a natural curiosity for how things connect — always asking *why* before *how*. When I stumbled into product design, something clicked: design is just systems thinking with pixels and empathy.
-
-Being left-handed made me hyper-aware of products that weren't built for me — bad scissors, smudged ink, reversed interfaces. That friction became my superpower. **I design for the person who feels invisible in the room.** The edge case. The minority experience.
-
-Now I'm learning to build what I design. One component at a time. 🌱
+Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth. As design and technology continue to evolve, I incorporate AI into my workflow where it adds value — primarily as a tool for exploration, iteration, and execution. My focus remains on thoughtful product decisions, strong systems thinking, and delivering experiences that are both useful and well-crafted.
 
 ---
 
@@ -79,9 +75,16 @@ Now I'm learning to build what I design. One component at a time. 🌱
 
 ## 🌙 Currently
 
-| 📚 Reading | 🧠 Learning | 🎮 Playing | 📺 Watching |
-|:---:|:---:|:---:|:---:|
-| *The Nightingale* — Kristin Hannah | React + TypeScript | Genshin Impact | Movies & shows |
+<table align="center" width="100%" border="0">
+<tr>
+<td align="center" width="25%">📚 <b>Reading</b><br/><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i><br/><sub>Steve Cavanagh</sub><!-- GOODREADS-CURRENTLY-READING:END --></td>
+<td align="center" width="25%">🧠 <b>Learning</b><br/><br/><sub>React + TypeScript</sub></td>
+<td align="center" width="25%">🎮 <b>Playing</b><br/><br/><sub>Genshin Impact</sub></td>
+<td align="center" width="25%">🎬 <b>Watching</b><br/><br/><sub>Movies & shows</sub></td>
+</tr>
+</table>
+
+<sub><i>📚 Reading updates automatically from <a href="https://www.goodreads.com/review/list/79687941-simplypheyie">Goodreads</a> every day</i></sub>
 
 ---
 
@@ -96,21 +99,32 @@ Now I'm learning to build what I design. One component at a time. 🌱
 
 **Fiction I love**
 
-[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/book/show/41886271)
+[![Babel](https://img.shields.io/badge/Babel-R.F._Kuang-302b63?style=flat)](https://www.goodreads.com/book/show/57945316)
+[![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/book/show/68428)
 [![Americanah](https://img.shields.io/badge/Americanah-Chimamanda_Adichie-302b63?style=flat)](https://www.goodreads.com/book/show/15796700)
-[![The Nightingale](https://img.shields.io/badge/The_Nightingale-Kristin_Hannah-302b63?style=flat)](https://www.goodreads.com/book/show/21853621)
+[![Anxious People](https://img.shields.io/badge/Anxious_People-Fredrik_Backman-302b63?style=flat)](https://www.goodreads.com/book/show/49534394)
+[![My Dark Vanessa](https://img.shields.io/badge/My_Dark_Vanessa-Kate_E._Russell-302b63?style=flat)](https://www.goodreads.com/book/show/44890081)
+[![The Sword of Kaigen](https://img.shields.io/badge/The_Sword_of_Kaigen-M.L._Wang-302b63?style=flat)](https://www.goodreads.com/book/show/41886271)
 
 ---
 
 ## 🌍 My World
 
-| 🎨 Design | 🎮 Gaming | 🎬 Movies | 📖 Reading |
-|:---:|:---:|:---:|:---:|
-| Figma, UI patterns, design systems | Genshin Impact, cozy games | Films, cinematic worlds | Fiction + UX books + essays |
-
-| 🎵 Music | ✍️ Writing | 🖊️ Drawing & Coloring | 🧩 Solving Puzzles |
-|:---:|:---:|:---:|:---:|
-| K-pop (Blackpink forever 💜) | Case studies, journaling | Sketching, doodling, art | Logic games, crosswords |
+<table align="center" width="100%" border="0">
+<tr>
+<td align="center" width="25%" valign="top"><b>🎨 Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
+<td align="center" width="25%" valign="top"><b>🎮 Gaming</b><br/><sub>Genshin Impact,<br/>cozy games</sub></td>
+<td align="center" width="25%" valign="top"><b>🎬 Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
+<td align="center" width="25%" valign="top"><b>📖 Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
+</tr>
+<tr><td colspan="4"><br/></td></tr>
+<tr>
+<td align="center" width="25%" valign="top"><b>🎵 Music</b><br/><sub>K-pop<br/>(Blackpink forever 💜)</sub></td>
+<td align="center" width="25%" valign="top"><b>✍️ Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
+<td align="center" width="25%" valign="top"><b>🖊️ Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
+<td align="center" width="25%" valign="top"><b>🧩 Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
+</tr>
+</table>
 
 ---
 
