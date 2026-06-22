@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=400&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Pixel-perfect+UIs+%26+products+%F0%9F%8E%A8;Designing+with+empathy+%E2%9C%A8;Always+learning%2C+always+creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=400&lines=Product+Designer+%C3%97+Aspiring+Frontend+Dev;UX+%7C+UI+%7C+Research+%7C+Figma;Pixel-perfect+UIs+%26+products+%F0%9F%8E%A8;Designing+with+empathy+%E2%9C%A8;Always+learning%2C+always+creating" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -67,7 +67,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🗺️ The Journey
 
 ```
-🎨  Design              ██████████ 95%   ✅ Comfortable
+🎨  Design              ██████████ 90%   ✅ Comfortable
 🔍  UX Research         █████████░ 85%   ✅ Comfortable
 ⚡  Figma               ██████████ 95%   ✅ Comfortable
 🌐  HTML & CSS          ████████░░ 75%   🔨 Building
@@ -193,11 +193,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/Simplypheyie96/Simplypheyie96/pull/1) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
-3. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-4. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
-5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+1. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+2. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+3. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+5. 💪 Opened PR [#5](https://github.com/Simplypheyie96/Playlog/pull/5) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
 <!--END_SECTION:activity-->
 
 ---
