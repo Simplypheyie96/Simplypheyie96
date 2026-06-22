@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman.svg?game=pacman&color_dots=#a855f7,#7c3aed,#6d28d9,#4c1d95,#f5d0fe
-            dist/pacman-dark.svg?game=pacman&palette=github-dark&color_dots=#a855f7,#7c3aed,#6d28d9,#4c1d95,#f5d0fe
+            dist/pacman.svg?game=pacman&color_dots=#9be9a8,#40c463,#30a14e,#216e39
+            dist/pacman-dark.svg?game=pacman&color_dots=#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
