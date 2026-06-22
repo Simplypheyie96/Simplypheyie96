@@ -2,14 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I'm+Feyikemi+%F0%9F%8E%A8;UX+Designer+%2B+Frontend+Developer;Building+beautiful+experiences+%E2%9C%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" alt="profile views" />
-  <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=1a1a2e" alt="Twitter" /></a>
-</div>
+<table align="center" border="0">
+<tr>
+<td align="center" width="55%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=I'm+Feyikemi+%F0%9F%8E%A8;UX+Designer+%2B+Frontend+Developer;Building+beautiful+experiences+%E2%9C%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
+  <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=1a1a2e" /></a>
+</td>
+<td align="center" width="45%">
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="260" alt="coder anime girl" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -96,6 +101,14 @@ const feyikemi = {
   <a href="https://github.com/Simplypheyie96">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/YDC0sq2VD45zr2gkrn/giphy.gif" width="280" alt="Blackpink Lisa" />
+  <br/><br/>
+  <sub>✨ stay cute, stay coded ✨</sub>
 </div>
 
 <br/>
