@@ -34,7 +34,7 @@
 const feyikemi = {
   role        : "Lead Product Designer",
   workplace   : "IQ.wiki",
-  identity    : "Left-handed. Designer who codes. Building what I design. 🖊️",
+  identity    : "Left-handed. Designer actively learning to code — with Claude Code & AI agents as pair programmers. 🖊️",
   learning    : ["React", "TypeScript", "TailwindCSS", "Vite"],
   building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
   skills      : {
@@ -174,6 +174,13 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -207,7 +214,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
-  <sub>✨ designed by hand · coded with heart ✨</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=✨+Check+out+my+portfolio+%E2%86%92+simplypheyie.tilda.ws;💙+Let%27s+connect+on+LinkedIn;🎨+Open+to+design+%26+product+collaborations;🚀+Always+building+something+new;🤝+Let%27s+create+something+great+together;🖊️+Left-handed+%26+proud+of+it" alt="rotating message" />
 </div>
 
 <br/>
