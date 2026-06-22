@@ -3,25 +3,29 @@
   <img src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" width="100%" alt="tech banner" />
 </div>
 
-<!-- RUNNING MASCOT + HERO CONTENT -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<br/>
+
+<!-- HERO CONTENT: greeting left, GIF right -->
+<table border="0" width="100%" cellpadding="12" cellspacing="0">
 <tr>
-<td width="60%" valign="middle" align="left">
+<td width="58%" valign="middle">
 
 <h2>Hey there! This is Feyikemi Mabel 👋🏽😊</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=520&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=500&lines=Product+Designer+%C3%97+Frontend+Learner;UX+%7C+UI+%7C+Research+%7C+Figma;Building+pixel-perfect+digital+experiences;Designing+with+empathy+%F0%9F%8E%A8;Always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://simplypheyie.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/feyikemi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=0f0c29" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
   <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="280" alt="anime girl coder" />
 </td>
 </tr>
@@ -46,8 +50,6 @@ const feyikemi = {
   portfolio   : "https://simplypheyie.tilda.ws"
 };
 ```
-
-<br/>
 
 ---
 
@@ -75,14 +77,10 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🌙 Currently
 
-<table align="center" width="100%" border="0">
-<tr>
-<td align="center" width="25%">📚 <b>Reading</b><br/><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i><br/><sub>Steve Cavanagh</sub><!-- GOODREADS-CURRENTLY-READING:END --></td>
-<td align="center" width="25%">🧠 <b>Learning</b><br/><br/><sub>React + TypeScript</sub></td>
-<td align="center" width="25%">🎮 <b>Playing</b><br/><br/><sub>Genshin Impact</sub></td>
-<td align="center" width="25%">🎬 <b>Watching</b><br/><br/><sub>Movies & shows</sub></td>
-</tr>
-</table>
+📚 **Reading** &nbsp;— <!-- GOODREADS-CURRENTLY-READING:START -->*Fifty-Fifty* — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END -->
+🧠 **Learning** — React + TypeScript
+🎮 **Playing** &nbsp;— Where Wind Meets
+🎬 **Watching** — Movies & shows
 
 <sub><i>📚 Reading updates automatically from <a href="https://www.goodreads.com/review/list/79687941-simplypheyie">Goodreads</a> every day</i></sub>
 
@@ -110,21 +108,14 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🌍 My World
 
-<table align="center" width="100%" border="0">
-<tr>
-<td align="center" width="25%" valign="top"><b>🎨 Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
-<td align="center" width="25%" valign="top"><b>🎮 Gaming</b><br/><sub>Genshin Impact,<br/>cozy games</sub></td>
-<td align="center" width="25%" valign="top"><b>🎬 Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
-<td align="center" width="25%" valign="top"><b>📖 Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
-</tr>
-<tr><td colspan="4"><br/></td></tr>
-<tr>
-<td align="center" width="25%" valign="top"><b>🎵 Music</b><br/><sub>K-pop<br/>(Blackpink forever 💜)</sub></td>
-<td align="center" width="25%" valign="top"><b>✍️ Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
-<td align="center" width="25%" valign="top"><b>🖊️ Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
-<td align="center" width="25%" valign="top"><b>🧩 Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
-</tr>
-</table>
+🎨 **Design** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figma, UI patterns, design systems
+🎮 **Gaming** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where Wind Meets, cozy games
+🎬 **Movies** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Films, cinematic worlds
+📖 **Reading** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fiction, UX books, essays
+🎵 **Music** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; K-pop (Blackpink forever 💜)
+✍️ **Writing** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Case studies, journaling
+🖊️ **Drawing & Coloring** &nbsp; Sketching, doodling, art
+🧩 **Solving Puzzles** &nbsp;&nbsp;&nbsp;&nbsp; Logic games, crosswords
 
 ---
 
