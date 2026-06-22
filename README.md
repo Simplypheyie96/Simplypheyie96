@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Feyikemi!;UX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Building+beautiful+experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I'm+Feyikemi+%F0%9F%8E%A8;UX+Designer+%2B+Frontend+Developer;Building+beautiful+experiences+%E2%9C%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" alt="profile views" />
@@ -63,6 +65,14 @@ const feyikemi = {
 
 <br/>
 
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simplypheyie96&theme=tokyo-night&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border_color=a855f7" width="95%" />
+</div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -91,5 +101,5 @@ const feyikemi = {
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
