@@ -2,20 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Feyikemi%20Mabel&fontSize=55&fontColor=a855f7&animation=twinkling&desc=UX%20Designer%20%7C%20Frontend%20Developer&descSize=20&descColor=e2e8f0" width="100%" />
 </div>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td align="center" width="55%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=480&lines=const+role+%3D+%22UX+Designer%22;const+stack+%3D+%5B%22React%22%2C+%22TypeScript%22%5D;building+pixel-perfect+UIs+%F0%9F%8E%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB;always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
-  <br/><br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/200w.gif" width="300" alt="anime girl coder" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=const+role+%3D+%22UX+Designer%22;const+stack+%3D+%5B%22React%22%2C+%22TypeScript%22%5D;building+pixel-perfect+UIs+%F0%9F%8E%A8;Figma+%E2%86%92+Code+%F0%9F%92%BB;always+learning%2C+always+creating+%E2%9C%A8" alt="Typing SVG" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
   &nbsp;
   <a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=0f0c29" /></a>
-</td>
-<td align="center" width="45%">
-  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="270" alt="anime girl coder" />
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
