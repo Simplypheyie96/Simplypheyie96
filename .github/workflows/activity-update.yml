@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */2 * * *"   # every 2 hours
   workflow_dispatch:
   push:
     branches:
@@ -19,9 +19,9 @@ jobs:
 
       - name: Update GitHub Activity in README
         uses: jamesgeorge007/github-activity-readme@master
-        continue-on-error: true        # prevents false-failure when nothing changed
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ update: recent GitHub activity"
-          MAX_LINES: 5
+          MAX_LINES: 10
