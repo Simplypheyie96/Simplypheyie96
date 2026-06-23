@@ -56,7 +56,7 @@ const feyikemi = {
 
 ---
 
-## 🌱 Origin Story
+## 🙋🏽‍♀️ About
 
 I became curious about design long before I knew what product design was. Growing up left-handed made me constantly notice how everyday experiences — from classroom chairs to simple tools — were often designed without certain users in mind. That curiosity eventually evolved into a passion for creating products that feel intuitive, accessible, and genuinely thoughtful.
 
@@ -188,11 +188,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Simplypheyie96/Simplypheyie96/pull/4) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🎉 Merged PR [#3](https://github.com/Simplypheyie96/Simplypheyie96/pull/3) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 💪 Opened PR [#7](https://github.com/Simplypheyie96/html-to-figma/pull/7) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-4. 💪 Opened PR [#6](https://github.com/Simplypheyie96/html-to-figma/pull/6) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Business-Card/pull/2) in [Simplypheyie96/Business-Card](https://github.com/Simplypheyie96/Business-Card)
+1. 🎉 Merged PR [#3](https://github.com/Simplypheyie96/Simplypheyie96/pull/3) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+2. 💪 Opened PR [#7](https://github.com/Simplypheyie96/html-to-figma/pull/7) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
+3. 💪 Opened PR [#6](https://github.com/Simplypheyie96/html-to-figma/pull/6) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Business-Card/pull/2) in [Simplypheyie96/Business-Card](https://github.com/Simplypheyie96/Business-Card)
+5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/html-to-figma/pull/2) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
 <!--END_SECTION:activity-->
 
 ---
