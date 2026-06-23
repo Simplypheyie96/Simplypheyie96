@@ -31,8 +31,9 @@ jobs:
               root = ET.fromstring(xml_content)
               items = root.findall('.//item')
 
-              if items:
-                  title_el = items[0].find('title')
+              books = []
+              for item in items:
+                  title_el = item.find('title')
                   raw_title = title_el.text.strip() if title_el is not None else ""
                   # Strip series info like "(Series, #N)"
                   title = re.sub(r'\s*\(.*?\)\s*$', '', raw_title).strip()
@@ -40,7 +41,7 @@ jobs:
                   # Try to find author in description or content:encoded
                   author = ""
                   for tag in ['description', '{http://purl.org/rss/1.0/modules/content/}encoded']:
-                      el = items[0].find(tag)
+                      el = item.find(tag)
                       if el is not None and el.text:
                           m = re.search(r'author:\s*([^<\n]+)', el.text, re.IGNORECASE)
                           if m:
@@ -48,9 +49,12 @@ jobs:
                               break
 
                   if author:
-                      replacement = f"*{title}* — {author}"
+                      books.append(f"*{title}* — {author}")
                   else:
-                      replacement = f"*{title}*"
+                      books.append(f"*{title}*")
+
+              if books:
+                  replacement = " &amp; ".join(books)
               else:
                   replacement = "Between books 📖"
 
