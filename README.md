@@ -81,9 +81,8 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🌙 Currently
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
-<tr><td colspan="2" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
-  <td width="50%" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="50%" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="420" height="1"></td>
   <td width="50%" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
 </tr>
 <tr>
@@ -129,9 +128,8 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🌍 My World
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
-<tr><td colspan="4" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
-  <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
+  <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="210" height="1"></td>
   <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Where Wind Meets,<br/>cozy games</sub></td>
   <td align="center" width="25%">🎬<br/><b>Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
   <td align="center" width="25%">📖<br/><b>Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
@@ -164,7 +162,6 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 📊 GitHub Stats
 
 <table border="0" cellspacing="8" cellpadding="0" width="100%">
-<tr><td colspan="2" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
 <td width="55%"><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
 <td width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
@@ -203,10 +200,9 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🚀 Featured Projects
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
-<tr><td colspan="3" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <thead><tr>
   <th align="left">Project</th>
-  <th align="left">Description</th>
+  <th align="left">Description<img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="400" height="1"></th>
   <th align="left">Stack</th>
 </tr></thead>
 <tbody>
