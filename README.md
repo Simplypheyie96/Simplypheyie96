@@ -56,7 +56,7 @@ const feyikemi = {
 
 ---
 
-## 📖 My Story
+## 🌱 Origin Story
 
 I became curious about design long before I knew what product design was. Growing up left-handed made me constantly notice how everyday experiences — from classroom chairs to simple tools — were often designed without certain users in mind. That curiosity eventually evolved into a passion for creating products that feel intuitive, accessible, and genuinely thoughtful.
 
@@ -82,12 +82,12 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td width="50%" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="420" height="1"></td>
-  <td width="50%" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
+  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="400" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
 </tr>
 <tr>
-  <td valign="top">🎮 <b>Playing</b><br/>Where Wind Meets</td>
-  <td valign="top">🎬 <b>Watching</b><br/>Movies &amp; shows</td>
+  <td width="400" valign="top">🎮 <b>Playing</b><br/>Where Wind Meets</td>
+  <td width="400" valign="top">🎬 <b>Watching</b><br/>Movies &amp; shows</td>
 </tr>
 </table>
 
@@ -129,16 +129,16 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="210" height="1"></td>
-  <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Where Wind Meets,<br/>cozy games</sub></td>
-  <td align="center" width="25%">🎬<br/><b>Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
-  <td align="center" width="25%">📖<br/><b>Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
+  <td align="center" width="200">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
+  <td align="center" width="200">🎮<br/><b>Gaming</b><br/><sub>Where Wind Meets,<br/>cozy games</sub></td>
+  <td align="center" width="200">🎬<br/><b>Movies</b><br/><sub>Films,<br/>cinematic worlds</sub></td>
+  <td align="center" width="200">📖<br/><b>Reading</b><br/><sub>Fiction, UX books,<br/>essays</sub></td>
 </tr>
 <tr>
-  <td align="center">🎵<br/><b>Music</b><br/><a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1?si=3e19e2bd27cc4693"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" /></a>&nbsp;<a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=apple-music&logoColor=white" /></a></td>
-  <td align="center">✍️<br/><b>Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
-  <td align="center">🖊️<br/><b>Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
-  <td align="center">🧩<br/><b>Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
+  <td align="center" width="200">🎵<br/><b>Music</b><br/><a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1?si=3e19e2bd27cc4693"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" /></a>&nbsp;<a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=apple-music&logoColor=white" /></a></td>
+  <td align="center" width="200">✍️<br/><b>Writing</b><br/><sub>Case studies,<br/>journaling</sub></td>
+  <td align="center" width="200">🖊️<br/><b>Drawing & Coloring</b><br/><sub>Sketching,<br/>doodling, art</sub></td>
+  <td align="center" width="200">🧩<br/><b>Solving Puzzles</b><br/><sub>Logic games,<br/>crosswords</sub></td>
 </tr>
 </table>
 
@@ -188,11 +188,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Simplypheyie96/Simplypheyie96/pull/4) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🎉 Merged PR [#3](https://github.com/Simplypheyie96/Simplypheyie96/pull/3) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 💪 Opened PR [#7](https://github.com/Simplypheyie96/html-to-figma/pull/7) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-4. 💪 Opened PR [#6](https://github.com/Simplypheyie96/html-to-figma/pull/6) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Business-Card/pull/2) in [Simplypheyie96/Business-Card](https://github.com/Simplypheyie96/Business-Card)
+1. 🎉 Merged PR [#3](https://github.com/Simplypheyie96/Simplypheyie96/pull/3) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+2. 💪 Opened PR [#7](https://github.com/Simplypheyie96/html-to-figma/pull/7) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
+3. 💪 Opened PR [#6](https://github.com/Simplypheyie96/html-to-figma/pull/6) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Business-Card/pull/2) in [Simplypheyie96/Business-Card](https://github.com/Simplypheyie96/Business-Card)
+5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/html-to-figma/pull/2) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
 <!--END_SECTION:activity-->
 
 ---
