@@ -80,14 +80,15 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🌙 Currently
 
-<table border="0" cellpadding="6" cellspacing="0">
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td>📚 <b>Reading</b></td>
-  <td><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="50%" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="50%" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
 </tr>
-<tr><td>🧠 <b>Learning</b></td><td>React + TypeScript</td></tr>
-<tr><td>🎮 <b>Playing</b></td><td>Where Wind Meets</td></tr>
-<tr><td>🎬 <b>Watching</b></td><td>Movies & shows</td></tr>
+<tr>
+  <td valign="top">🎮 <b>Playing</b><br/>Where Wind Meets</td>
+  <td valign="top">🎬 <b>Watching</b><br/>Movies &amp; shows</td>
+</tr>
 </table>
 
 <sub><i>📚 Reading updates automatically from <a href="https://www.goodreads.com/review/list/79687941-simplypheyie">Goodreads</a> every day</i></sub>
@@ -160,17 +161,15 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="8" cellpadding="0">
+<table border="0" cellspacing="8" cellpadding="0" width="100%">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" /></td>
+<td width="55%"><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
+<td width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
 </tr>
 <tr>
 <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" /></td>
 </tr>
 </table>
-
----
 
 ---
 
@@ -189,23 +188,46 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/Simplypheyie96/Simplypheyie96/pull/1) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
-3. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-4. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
-5. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+1. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+2. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+3. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+5. 💪 Opened PR [#5](https://github.com/Simplypheyie96/Playlog/pull/5) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
 <!--END_SECTION:activity-->
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🗳️ [IQ Vote](https://github.com/Simplypheyie96/Iqvote) | Employee of the Month voting platform | React · Supabase · Vite |
-| 🎵 [VibeCafe](https://github.com/Simplypheyie96/vibecafe) | Music discovery app | React · TypeScript |
-| 🔌 [HTML to Figma](https://github.com/Simplypheyie96/html-to-figma) | Figma plugin — render HTML inside Figma | TypeScript · Figma API |
-| 🌐 [Personal Portfolio](https://github.com/Simplypheyie96/Personal-Portfolio-Freecodecamp) | Personal portfolio site | HTML · CSS |
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<thead><tr>
+  <th align="left">Project</th>
+  <th align="left">Description</th>
+  <th align="left">Stack</th>
+</tr></thead>
+<tbody>
+<tr>
+  <td>🗳️ <a href="https://github.com/Simplypheyie96/Iqvote">IQ Vote</a></td>
+  <td>Employee of the Month voting platform</td>
+  <td>React · Supabase · Vite</td>
+</tr>
+<tr>
+  <td>🎵 <a href="https://github.com/Simplypheyie96/vibecafe">VibeCafe</a></td>
+  <td>Music discovery app</td>
+  <td>React · TypeScript</td>
+</tr>
+<tr>
+  <td>🔌 <a href="https://github.com/Simplypheyie96/html-to-figma">HTML to Figma</a></td>
+  <td>Figma plugin — render HTML inside Figma</td>
+  <td>TypeScript · Figma API</td>
+</tr>
+<tr>
+  <td>🌐 <a href="https://github.com/Simplypheyie96/Personal-Portfolio-Freecodecamp">Personal Portfolio</a></td>
+  <td>Personal portfolio site</td>
+  <td>HTML · CSS</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
