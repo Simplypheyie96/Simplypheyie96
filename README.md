@@ -81,6 +81,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🌙 Currently
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr><td colspan="2" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
   <td width="50%" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START --><i>Fifty-Fifty</i> — Steve Cavanagh<!-- GOODREADS-CURRENTLY-READING:END --></td>
   <td width="50%" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
@@ -128,6 +129,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🌍 My World
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr><td colspan="4" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
   <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Figma, UI patterns,<br/>design systems</sub></td>
   <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Where Wind Meets,<br/>cozy games</sub></td>
@@ -162,6 +164,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 📊 GitHub Stats
 
 <table border="0" cellspacing="8" cellpadding="0" width="100%">
+<tr><td colspan="2" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <tr>
 <td width="55%"><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
 <td width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
@@ -188,11 +191,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Simplypheyie96/Simplypheyie96/pull/2) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. ℹ️ Labeled PR [#1](https://github.com/Simplypheyie96/Simplypheyie96/pull/1) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
-4. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-5. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
+1. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Technical-documentation/issues/1) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+2. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/VibeCafe/issues/2) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+3. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Birthday-gift-site/issues/1) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
+4. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Iqvote/pull/2) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+5. 💪 Opened PR [#5](https://github.com/Simplypheyie96/Playlog/pull/5) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
 <!--END_SECTION:activity-->
 
 ---
@@ -200,6 +203,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## 🚀 Featured Projects
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr><td colspan="3" height="1"><img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="100%" height="1"></td></tr>
 <thead><tr>
   <th align="left">Project</th>
   <th align="left">Description</th>
