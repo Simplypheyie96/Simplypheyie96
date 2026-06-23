@@ -188,11 +188,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Simplypheyie96/Simplypheyie96/pull/10) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. ℹ️ Assigned PR [#1](https://github.com/Simplypheyie96/Simplypheyie96/pull/1) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 💪 Opened PR [#2](https://github.com/Simplypheyie96/Birthday-gift-site/pull/2) in [Simplypheyie96/Birthday-gift-site](https://github.com/Simplypheyie96/Birthday-gift-site)
-4. 🎉 Merged PR [#6](https://github.com/Simplypheyie96/Simplypheyie96/pull/6) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-5. 🎉 Merged PR [#4](https://github.com/Simplypheyie96/Simplypheyie96/pull/4) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+1. 🎉 Merged PR [#2](https://github.com/Simplypheyie96/Technical-documentation/pull/2) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+2. 🎉 Merged PR [#1](https://github.com/Simplypheyie96/Iqvote/pull/1) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+3. 🎉 Merged PR [#5](https://github.com/Simplypheyie96/Simplypheyie96/pull/5) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+4. 🎉 Merged PR [#2](https://github.com/Simplypheyie96/Survey-Form-Freecodecamp/pull/2) in [Simplypheyie96/Survey-Form-Freecodecamp](https://github.com/Simplypheyie96/Survey-Form-Freecodecamp)
+5. 🎉 Merged PR [#4](https://github.com/Simplypheyie96/TrainCounterApp/pull/4) in [Simplypheyie96/TrainCounterApp](https://github.com/Simplypheyie96/TrainCounterApp)
 <!--END_SECTION:activity-->
 
 ---
