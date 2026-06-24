@@ -1,0 +1,117 @@
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Spotify now playing and update README
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request
+          import urllib.parse
+          import urllib.error
+          import json
+          import base64
+          import re
+          import os
+
+          CLIENT_ID = os.environ['SPOTIFY_CLIENT_ID']
+          CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']
+          REFRESH_TOKEN = os.environ['SPOTIFY_REFRESH_TOKEN']
+
+          NOT_PLAYING_HTML = (
+            '<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"'
+            ' width="200" alt="not listening rn" />'
+            '<br/><sub><i>🔇 Nothing playing right now — catch me when the headphones are on</i></sub>'
+          )
+
+          # Exchange refresh token for access token
+          creds = base64.b64encode(f'{CLIENT_ID}:{CLIENT_SECRET}'.encode()).decode()
+          token_req = urllib.request.Request(
+              'https://accounts.spotify.com/api/token',
+              data=urllib.parse.urlencode({
+                  'grant_type': 'refresh_token',
+                  'refresh_token': REFRESH_TOKEN
+              }).encode(),
+              headers={
+                  'Authorization': f'Basic {creds}',
+                  'Content-Type': 'application/x-www-form-urlencoded'
+              }
+          )
+          try:
+              token_resp = urllib.request.urlopen(token_req, timeout=10)
+              access_token = json.loads(token_resp.read())['access_token']
+          except Exception as e:
+              print(f'Token error: {e}')
+              exit(0)
+
+          # Get currently playing track
+          now_req = urllib.request.Request(
+              'https://api.spotify.com/v1/me/player/currently-playing',
+              headers={'Authorization': f'Bearer {access_token}'}
+          )
+          try:
+              now_resp = urllib.request.urlopen(now_req, timeout=10)
+              status = now_resp.status
+              body = now_resp.read()
+          except urllib.error.HTTPError as e:
+              status = e.code
+              body = b''
+
+          if status == 200 and body:
+              data = json.loads(body)
+              if data.get('is_playing') and data.get('item'):
+                  item = data['item']
+                  song    = item['name']
+                  artists = ', '.join(a['name'] for a in item['artists'])
+                  album   = item['album']['name']
+                  url     = item['external_urls']['spotify']
+                  images  = item['album']['images']
+                  art     = images[1]['url'] if len(images) > 1 else images[0]['url']
+
+                  replacement = (
+                      f'<a href="{url}">'
+                      f'<img src="{art}" width="60" height="60" /></a>'
+                      f'&nbsp; <b>{song}</b><br/>'
+                      f'<sub>🎵 {artists} · <i>{album}</i></sub>'
+                  )
+              else:
+                  replacement = NOT_PLAYING_HTML
+          else:
+              replacement = NOT_PLAYING_HTML
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          pattern = r'(<!-- SPOTIFY-NOW-PLAYING:START -->).*?(<!-- SPOTIFY-NOW-PLAYING:END -->)'
+          new_readme = re.sub(pattern, rf'\g<1>\n{replacement}\n\g<2>', readme, flags=re.DOTALL)
+
+          if new_readme == readme:
+              print('No change.')
+          else:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_readme)
+              print(f'Updated.')
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "Nothing to commit" || \
+            (git commit -m "🎵 update: spotify now playing" && git push)
