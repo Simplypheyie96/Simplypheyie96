@@ -34,8 +34,8 @@ jobs:
           REFRESH_TOKEN = os.environ['SPOTIFY_REFRESH_TOKEN']
 
           NOT_PLAYING_HTML = (
-            '<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"'
-            ' width="200" alt="not listening rn" />'
+            '<img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/not-playing.gif"'
+            ' width="400" alt="not listening rn" />'
             '<br/><sub><i>🔇 Nothing playing right now — catch me when the headphones are on</i></sub>'
           )
 
