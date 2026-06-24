@@ -99,17 +99,17 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1">
-  <img src="https://spotify-github-profile.kittinan.com/api?uid=dxfxgedku8ipye2ah5diwvxm1&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=false" width="400" alt="Spotify Now Playing" />
-</a>
+<!-- SPOTIFY-NOW-PLAYING:START -->
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="not listening rn" /><br/><sub><i>🔇 Nothing playing right now — catch me when the headphones are on</i></sub>
+<!-- SPOTIFY-NOW-PLAYING:END -->
 
-<br/><br/>
+<br/>
 
 <a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-my_profile-FA243C?style=flat&logo=apple-music&logoColor=white" /></a>
 
 </div>
 
-<sub><i>🎧 Spotify updates live · Apple Music via Last.fm — coming soon</i></sub>
+<sub><i>🎧 Updates every 5 min from Spotify · <a href="https://music.apple.com/profile/Feyikemi_M">Apple Music profile</a></i></sub>
 
 ---
 
@@ -285,4 +285,5 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 [~]: End of profile. Thanks for stopping by — now let's make something together.
 ```
+
 
