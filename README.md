@@ -100,7 +100,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 <div align="center">
 
 <!-- SPOTIFY-NOW-PLAYING:START -->
-<a href="https://open.spotify.com/track/0pxLOqfWEN7qdfJCGZaSCX"><img src="https://i.scdn.co/image/ab67616d00001e0226df9369f5f4244dd1d4d0b0" width="60" height="60" /></a>&nbsp; <b>Kin</b><br/><sub>🎵 Chloe-Beth · <i>Familiar</i></sub>
+<a href="https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U"><img src="https://i.scdn.co/image/ab67616d00001e02c810376ce0f8ee8a12420e4b" width="60" height="60" /></a>&nbsp; <b>Flume</b><br/><sub>🎵 Lotte Kestner · <i>Stolen</i></sub>
 <!-- SPOTIFY-NOW-PLAYING:END -->
 
 <br/>
