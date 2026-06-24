@@ -103,6 +103,8 @@ Today, I design complex digital products with a focus on clarity, structure, and
   <img src="https://spotify-now-playing-sable.vercel.app/api/now-playing" width="450" alt="Spotify Now Playing" />
 </a>
 
+<sub><i>🔇 Nothing playing right now — catch me when the headphones are on</i></sub>
+
 <br/>
 
 <a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-my_profile-FA243C?style=flat&logo=apple-music&logoColor=white" /></a>
@@ -285,6 +287,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 [~]: End of profile. Thanks for stopping by — now let's make something together.
 ```
+
 
 
 
