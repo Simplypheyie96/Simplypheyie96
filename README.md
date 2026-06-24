@@ -95,6 +95,24 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
+## 🎵 Now Playing
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1">
+  <img src="https://spotify-github-profile.kittinan.com/api?uid=dxfxgedku8ipye2ah5diwvxm1&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=false" width="400" alt="Spotify Now Playing" />
+</a>
+
+<br/><br/>
+
+<a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-my_profile-FA243C?style=flat&logo=apple-music&logoColor=white" /></a>
+
+</div>
+
+<sub><i>🎧 Spotify updates live · Apple Music via Last.fm — coming soon</i></sub>
+
+---
+
 ## 📚 Bookshelf
 
 **Design & craft**
@@ -267,3 +285,4 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 [~]: End of profile. Thanks for stopping by — now let's make something together.
 ```
+
