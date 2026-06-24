@@ -99,9 +99,9 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <div align="center">
 
-<!-- SPOTIFY-NOW-PLAYING:START -->
-<a href="https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U"><img src="https://i.scdn.co/image/ab67616d00001e02c810376ce0f8ee8a12420e4b" width="60" height="60" /></a>&nbsp; <b>Flume</b><br/><sub>🎵 Lotte Kestner · <i>Stolen</i></sub>
-<!-- SPOTIFY-NOW-PLAYING:END -->
+<a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1">
+  <img src="https://spotify-now-playing-sable.vercel.app/api/now-playing" width="450" alt="Spotify Now Playing" />
+</a>
 
 <br/>
 
@@ -109,7 +109,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 </div>
 
-<sub><i>🎧 Updates every 5 min from Spotify · <a href="https://music.apple.com/profile/Feyikemi_M">Apple Music profile</a></i></sub>
+<sub><i>🎧 Updates live on every page load from Spotify · <a href="https://music.apple.com/profile/Feyikemi_M">Apple Music profile</a></i></sub>
 
 ---
 
@@ -285,5 +285,6 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 [~]: End of profile. Thanks for stopping by — now let's make something together.
 ```
+
 
 
