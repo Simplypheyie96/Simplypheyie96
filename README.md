@@ -100,7 +100,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 <div align="center">
 
 <a href="https://open.spotify.com/user/dxfxgedku8ipye2ah5diwvxm1">
-  <img src="https://spotify-now-playing-sable.vercel.app/api/now-playing" width="450" alt="Spotify Now Playing" />
+  <img src="https://spotify-now-playing-sable.vercel.app/api/now-playing?v=2" width="450" alt="Spotify Now Playing" />
 </a>
 
 <a href="https://music.apple.com/profile/Feyikemi_M"><img src="https://img.shields.io/badge/Apple_Music-my_profile-FA243C?style=flat&logo=apple-music&logoColor=white" /></a>
