@@ -100,7 +100,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 <div align="center">
 
 <!-- SPOTIFY-NOW-PLAYING:START -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="not listening rn" /><br/><sub><i>🔇 Nothing playing right now — catch me when the headphones are on</i></sub>
+<a href="https://open.spotify.com/track/0pxLOqfWEN7qdfJCGZaSCX"><img src="https://i.scdn.co/image/ab67616d00001e0226df9369f5f4244dd1d4d0b0" width="60" height="60" /></a>&nbsp; <b>Kin</b><br/><sub>🎵 Chloe-Beth · <i>Familiar</i></sub>
 <!-- SPOTIFY-NOW-PLAYING:END -->
 
 <br/>
