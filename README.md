@@ -33,7 +33,7 @@
 ```javascript
 const feyikemi = {
   role        : "Lead Product Designer",
-  workplace   : "IQ.wiki",
+  workplace   : "IQ Industries",
   identity    : "Left-handed designer — where empathy meets craft. 🖊️",
   learning    : "Frontend engineering — HTML, CSS, React, TypeScript",
   aiCraft     : {
@@ -116,7 +116,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 [![A Fate Inked in Blood](https://img.shields.io/badge/A_Fate_Inked_in_Blood-D.L._Jensen-302b63?style=flat)](https://www.goodreads.com/book/show/165940202-a-fate-inked-in-blood)
 [![One True Loves](https://img.shields.io/badge/One_True_Loves-Taylor_Jenkins_Reid-302b63?style=flat)](https://www.goodreads.com/book/show/27189194-one-true-loves)
 [![Conversations with Friends](https://img.shields.io/badge/Conversations_with_Friends-Sally_Rooney-302b63?style=flat)](https://www.goodreads.com/book/show/32187419-conversations-with-friends)
-[![Atmosphere](https://img.shields.io/badge/Atmosphere-302b63?style=flat)](https://www.goodreads.com/book/show/220817728-atmosphere)
+[![Atmosphere](https://img.shields.io/badge/Atmosphere-Taylor_Jenkins_Reid-302b63?style=flat)](https://www.goodreads.com/book/show/220817728-atmosphere)
 [![The Everlasting](https://img.shields.io/badge/The_Everlasting-302b63?style=flat)](https://www.goodreads.com/book/show/225699786-the-everlasting)
 [![The Return](https://img.shields.io/badge/The_Return-Nicholas_Sparks-302b63?style=flat)](https://www.goodreads.com/book/show/50884911-the-return)
 [![Mistborn](https://img.shields.io/badge/Mistborn-Brandon_Sanderson-302b63?style=flat)](https://www.goodreads.com/book/show/68428.Mistborn)
