@@ -206,11 +206,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Simplypheyie96/Simplypheyie96/pull/14) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🎉 Merged PR [#12](https://github.com/Simplypheyie96/Simplypheyie96/pull/12) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 🎉 Merged PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-4. ℹ️ Assigned PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-5. 🎉 Merged PR [#2](https://github.com/Simplypheyie96/Technical-documentation/pull/2) in [Simplypheyie96/Technical-documentation](https://github.com/Simplypheyie96/Technical-documentation)
+1. 🎉 Merged PR [#16](https://github.com/Simplypheyie96/Simplypheyie96/pull/16) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+2. 🎉 Merged PR [#14](https://github.com/Simplypheyie96/Simplypheyie96/pull/14) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+3. 🎉 Merged PR [#12](https://github.com/Simplypheyie96/Simplypheyie96/pull/12) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+4. 🎉 Merged PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+5. ℹ️ Assigned PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
 <!--END_SECTION:activity-->
 
 ---
