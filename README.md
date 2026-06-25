@@ -204,11 +204,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Simplypheyie96/Simplypheyie96/pull/16) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 🎉 Merged PR [#14](https://github.com/Simplypheyie96/Simplypheyie96/pull/14) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 🎉 Merged PR [#12](https://github.com/Simplypheyie96/Simplypheyie96/pull/12) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-4. 🎉 Merged PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-5. ℹ️ Assigned PR [#11](https://github.com/Simplypheyie96/Simplypheyie96/pull/11) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+1. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Personal-Project-site--project-1-scrimba/issues/1) in [Simplypheyie96/Personal-Project-site--project-1-scrimba](https://github.com/Simplypheyie96/Personal-Project-site--project-1-scrimba)
+2. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Playlog/issues/1) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
+3. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/Playlog/issues/2) in [Simplypheyie96/Playlog](https://github.com/Simplypheyie96/Playlog)
+4. 🔒 Closed issue [#2](https://github.com/Simplypheyie96/TrainCounterApp/issues/2) in [Simplypheyie96/TrainCounterApp](https://github.com/Simplypheyie96/TrainCounterApp)
+5. 🎉 Merged PR [#16](https://github.com/Simplypheyie96/Simplypheyie96/pull/16) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
 <!--END_SECTION:activity-->
 
 ---
