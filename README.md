@@ -204,11 +204,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Simplypheyie96/VibeCafe/pull/4) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-2. 💪 Opened PR [#3](https://github.com/Simplypheyie96/VibeCafe/pull/3) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-3. 🔒 Closed issue [#5](https://github.com/Simplypheyie96/html-to-figma/issues/5) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-4. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/html-to-figma/issues/1) in [Simplypheyie96/html-to-figma](https://github.com/Simplypheyie96/html-to-figma)
-5. 🔒 Closed issue [#1](https://github.com/Simplypheyie96/Business-Card/issues/1) in [Simplypheyie96/Business-Card](https://github.com/Simplypheyie96/Business-Card)
+1. 💪 Opened PR [#10](https://github.com/Simplypheyie96/Simplypheyie96/pull/10) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+2. 💪 Opened PR [#9](https://github.com/Simplypheyie96/Simplypheyie96/pull/9) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+3. 💪 Opened PR [#8](https://github.com/Simplypheyie96/Simplypheyie96/pull/8) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+4. 💪 Opened PR [#7](https://github.com/Simplypheyie96/Simplypheyie96/pull/7) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+5. 💪 Opened PR [#6](https://github.com/Simplypheyie96/Simplypheyie96/pull/6) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
 <!--END_SECTION:activity-->
 
 ---
