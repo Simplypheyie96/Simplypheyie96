@@ -204,11 +204,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Simplypheyie96/Simplypheyie96/pull/10) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-2. 💪 Opened PR [#9](https://github.com/Simplypheyie96/Simplypheyie96/pull/9) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-3. 💪 Opened PR [#8](https://github.com/Simplypheyie96/Simplypheyie96/pull/8) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-4. 💪 Opened PR [#7](https://github.com/Simplypheyie96/Simplypheyie96/pull/7) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
-5. 💪 Opened PR [#6](https://github.com/Simplypheyie96/Simplypheyie96/pull/6) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+1. 💪 Opened PR [#19](https://github.com/Simplypheyie96/Simplypheyie96/pull/19) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+2. 💪 Opened PR [#18](https://github.com/Simplypheyie96/Simplypheyie96/pull/18) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+3. 💪 Opened PR [#17](https://github.com/Simplypheyie96/Simplypheyie96/pull/17) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+4. 💪 Opened PR [#16](https://github.com/Simplypheyie96/Simplypheyie96/pull/16) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
+5. 💪 Opened PR [#15](https://github.com/Simplypheyie96/Simplypheyie96/pull/15) in [Simplypheyie96/Simplypheyie96](https://github.com/Simplypheyie96/Simplypheyie96)
 <!--END_SECTION:activity-->
 
 ---
