@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://simplypheyie.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
+<a href="https://simplypheyie.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/feyikemi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -50,7 +50,7 @@ const feyikemi = {
   },
   funFact     : "Left-handed in a right-handed world — " +
                 "it's why I design for everyone 🌍",
-  portfolio   : "https://simplypheyie.tilda.ws"
+  portfolio   : "https://simplypheyie.is-a.dev"
 };
 ```
 
@@ -255,7 +255,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 <a href="https://twitter.com/Simplypheyie">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://simplypheyie.tilda.ws">
+<a href="https://simplypheyie.is-a.dev">
   <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 <a href="https://github.com/Simplypheyie96">
@@ -269,7 +269,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=A855F7&center=true&vCenter=true&width=540&lines=Let%27s+build+something+unforgettable+together;Open+to+design+%26+AI+product+collaborations;Find+me+on+LinkedIn+%E2%80%94+let%27s+connect;Explore+my+portfolio+%E2%86%92+simplypheyie.tilda.ws;Designing+thoughtfully%2C+building+intentionally;Reach+out+%E2%80%94+I%27d+love+to+hear+from+you" alt="Let's connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=A855F7&center=true&vCenter=true&width=540&lines=Let%27s+build+something+unforgettable+together;Open+to+design+%26+AI+product+collaborations;Find+me+on+LinkedIn+%E2%80%94+let%27s+connect;Explore+my+portfolio+%E2%86%92+simplypheyie.is-a.dev;Designing+thoughtfully%2C+building+intentionally;Reach+out+%E2%80%94+I%27d+love+to+hear+from+you" alt="Let's connect" />
 </div>
 
 <br/>
