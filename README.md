@@ -82,7 +82,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*Love, Mom* — Iliana Xander<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*Terms of Inheritance* — Michelle Upton<!-- GOODREADS-CURRENTLY-READING:END --></td>
   <td width="400" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
 </tr>
 <tr>
