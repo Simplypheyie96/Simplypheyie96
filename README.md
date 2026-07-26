@@ -204,11 +204,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Simplypheyie96/VibeCafe/pull/10) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-2. 💪 Opened PR [#10](https://github.com/Simplypheyie96/VibeCafe/pull/10) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-3. 🎉 Merged PR [#9](https://github.com/Simplypheyie96/VibeCafe/pull/9) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-4. 💪 Opened PR [#9](https://github.com/Simplypheyie96/VibeCafe/pull/9) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
-5. 🎉 Merged PR [#8](https://github.com/Simplypheyie96/VibeCafe/pull/8) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+1. 🎉 Merged PR [#12](https://github.com/Simplypheyie96/VibeCafe/pull/12) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+2. 💪 Opened PR [#12](https://github.com/Simplypheyie96/VibeCafe/pull/12) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+3. 🎉 Merged PR [#11](https://github.com/Simplypheyie96/VibeCafe/pull/11) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+4. 💪 Opened PR [#11](https://github.com/Simplypheyie96/VibeCafe/pull/11) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
+5. 🎉 Merged PR [#10](https://github.com/Simplypheyie96/VibeCafe/pull/10) in [Simplypheyie96/VibeCafe](https://github.com/Simplypheyie96/VibeCafe)
 <!--END_SECTION:activity-->
 
 ---
