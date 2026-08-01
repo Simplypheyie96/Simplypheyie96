@@ -204,11 +204,11 @@ Today, I design complex digital products with a focus on clarity, structure, and
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Simplypheyie96/sdah-hymnal/pull/51) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
-2. 💪 Opened PR [#51](https://github.com/Simplypheyie96/sdah-hymnal/pull/51) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
-3. 🎉 Merged PR [#13](https://github.com/Simplypheyie96/Iqvote/pull/13) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-4. 💪 Opened PR [#13](https://github.com/Simplypheyie96/Iqvote/pull/13) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-5. 🎉 Merged PR [#12](https://github.com/Simplypheyie96/Iqvote/pull/12) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+1. 💪 Opened PR [#54](https://github.com/Simplypheyie96/sdah-hymnal/pull/54) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
+2. 🎉 Merged PR [#53](https://github.com/Simplypheyie96/sdah-hymnal/pull/53) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
+3. 💪 Opened PR [#53](https://github.com/Simplypheyie96/sdah-hymnal/pull/53) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
+4. 🎉 Merged PR [#52](https://github.com/Simplypheyie96/sdah-hymnal/pull/52) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
+5. 💪 Opened PR [#52](https://github.com/Simplypheyie96/sdah-hymnal/pull/52) in [Simplypheyie96/sdah-hymnal](https://github.com/Simplypheyie96/sdah-hymnal)
 <!--END_SECTION:activity-->
 
 ---
