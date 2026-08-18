@@ -179,8 +179,8 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 <table border="0" cellspacing="8" cellpadding="0" width="100%">
 <tr>
-<td width="55%"><img src="https://github-readme-stats.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
-<td width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
+<td width="55%"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
+<td width="45%"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
 </tr>
 <tr>
 <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" /></td>
