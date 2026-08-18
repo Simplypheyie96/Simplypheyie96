@@ -19,7 +19,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/feyikemi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/twitter/follow/Simplypheyie?logo=twitter&style=flat&color=a855f7&labelColor=0f0c29" /></a>
+<a href="https://twitter.com/Simplypheyie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Simplypheyie96&label=Profile+views&color=a855f7&style=flat" />
 
@@ -191,7 +191,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ## 🎮 Pac-Man eats my contributions
 
-<div width="100%">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/output/pacman.svg" />
