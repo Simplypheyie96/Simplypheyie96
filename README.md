@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=500&lines=Product+Designer+%C3%97+Aspiring+Frontend+Dev;UX+%7C+UI+%7C+Research+%7C+Figma;Pixel-perfect+UIs+%26+products+%F0%9F%8E%A8;Designing+with+empathy+%E2%9C%A8;Always+learning%2C+always+creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products+and+ship+them;React+%C2%B7+TypeScript+%C2%B7+offline-first+PWAs;I+design+AI+products%2C+not+just+use+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -32,21 +32,24 @@
 
 ```javascript
 const feyikemi = {
+  title       : "Digital Product Designer & Design Engineer",
   role        : "Lead Product Designer",
-  workplace   : "IQ Industries",
+  workplace   : "IQ.wiki (BrainDAO)",
+  since       : 2021,
   identity    : "Left-handed designer — where empathy meets craft. 🖊️",
-  learning    : "Frontend engineering — HTML, CSS, React, TypeScript",
+  does        : "Designs complex products, then ships them herself",
   aiCraft     : {
     design    : "AI-native product design — LLM interaction models, " +
                 "agentic UX & intelligent interfaces",
+    shipped   : ["SOPHIA — AI editor for IQ.wiki", "AIDEN — blockchain AI agent"],
     tooling   : "Fluent with AI agents: Claude Code · Cursor AI · Copilot"
   },
-  building    : ["Design systems", "Figma plugins", "Pixel-perfect UIs"],
+  building    : ["Offline-first PWAs", "Design systems", "Figma plugins"],
   skills      : {
     design  : ["Figma", "UX Research", "Prototyping", "Design Systems"],
-    frontend: ["HTML/CSS", "React", "TypeScript (learning)", "Tailwind"],
-    backend : ["Supabase", "Node.js", "Hono"],
-    tools   : ["Git", "Vercel", "shadcn/ui", "Notion", "FigJam"]
+    frontend: ["React", "TypeScript", "HTML/CSS", "Tailwind", "Motion"],
+    backend : ["Supabase", "Node.js", "Hono", "Serverless functions"],
+    tools   : ["Git", "Vercel", "Vite", "shadcn/ui", "Notion", "FigJam"]
   },
   funFact     : "Left-handed in a right-handed world — " +
                 "it's why I design for everyone 🌍",
@@ -60,21 +63,35 @@ const feyikemi = {
 
 I became curious about design long before I knew what product design was. Growing up left-handed made me constantly notice how everyday experiences — from classroom chairs to simple tools — were often designed without certain users in mind. That curiosity eventually evolved into a passion for creating products that feel intuitive, accessible, and genuinely thoughtful.
 
-Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth. As design and technology continue to evolve, I incorporate AI into my workflow where it adds value — primarily as a tool for exploration, iteration, and execution. My focus remains on thoughtful product decisions, strong systems thinking, and delivering experiences that are both useful and well-crafted.
+Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
+
+I also build them. Several of the products below I designed *and* shipped myself — front to back, in React and TypeScript, down to the deployed PWA. That means the design decision and the implementation are the same decision, with no handoff in between and nothing lost in translation.
+
+Two other things worth separating, because they get confused. I **use** AI in my workflow where it earns its place — exploration, iteration, execution — and I **design** AI products, which is a different discipline entirely: deciding how much control a person keeps, what the machine may do unattended, and how someone reviews output they did not write. SOPHIA and AIDEN are the public examples.
 
 ---
 
-## 🗺️ The Journey
+## 🚀 What I've shipped
 
-```
-🎨  Design              ██████████ 90%   ✅ Comfortable
-🔍  UX Research         █████████░ 85%   ✅ Comfortable
-⚡  Figma               ██████████ 95%   ✅ Comfortable
-🌐  HTML & CSS          ████████░░ 75%   🔨 Building
-⚛️  React + TypeScript  █████░░░░░ 50%   📚 Learning
-🎨  TailwindCSS         ██████░░░░ 60%   🔨 Building
-🛠️  Backend             ███░░░░░░░ 30%   🌱 Exploring
-```
+Designed **and** built by me, front to back:
+
+**[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
+<br/><sub>`PWA` `local-first storage` `offline` `open catalogue APIs`</sub>
+
+**[SDA Hymnal](https://sdahymnal.vercel.app)** — both hymnals in one app. 920 entries (695 hymns + 225 worship aids every other app leaves out), 691 recordings, and 278 Yorùbá hymns cross-referenced to their English counterparts so switching language follows the song, not the number. Built for a phone in the pew, a laptop, and a projector at the front of the hall. Fully offline.
+<br/><sub>`React` `TypeScript` `PWA` `service workers` `audio playback`</sub>
+
+**[IQvote](https://github.com/Simplypheyie96/Iqvote)** — internal voting platform in real use by the BrainDAO product team.
+<br/><sub>`React` `Supabase` `Vite`</sub>
+
+**[html-to-figma](https://github.com/Simplypheyie96/html-to-figma)** — Figma plugin that imports any webpage as editable Figma frames. Tooling for other designers.
+<br/><sub>`TypeScript` `Figma Plugin API`</sub>
+
+**[VibeCafe](https://github.com/Simplypheyie96/VibeCafe)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
+<br/><sub>`React` `TypeScript`</sub>
+
+**[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — this portfolio. 5,000+ hand-written lines of CSS, a serverless Goodreads feed that is edge-cached and falls back to baked-in values so the card is never empty or wrong, and generative lofi synthesised in the Web Audio API so the site ships zero audio assets.
+<br/><sub>`React 19` `TypeScript` `Vite 8` `Motion` `Vercel functions` `Web Audio API`</sub>
 
 ---
 
@@ -83,7 +100,7 @@ Today, I design complex digital products with a focus on clarity, structure, and
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
   <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*A Man for Amanda* — Nora Roberts<!-- GOODREADS-CURRENTLY-READING:END --></td>
-  <td width="400" valign="top">🧠 <b>Learning</b><br/>React + TypeScript</td>
+  <td width="400" valign="top">🧠 <b>Exploring</b><br/>Local-first architecture &amp; offline sync</td>
 </tr>
 <tr>
   <td width="400" valign="top">🎮 <b>Playing</b><br/>Where Wind Meets</td>
@@ -213,37 +230,18 @@ Today, I design complex digital products with a focus on clarity, structure, and
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 Design work
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-<thead><tr>
-  <th align="left">Project</th>
-  <th align="left">Description<img src="https://raw.githubusercontent.com/Simplypheyie96/Simplypheyie96/main/assets/spacer.png" width="400" height="1"></th>
-  <th align="left">Stack</th>
-</tr></thead>
-<tbody>
-<tr>
-  <td>🗳️ <a href="https://github.com/Simplypheyie96/Iqvote">IQ Vote</a></td>
-  <td>Employee of the Month voting platform</td>
-  <td>React · Supabase · Vite</td>
-</tr>
-<tr>
-  <td>🎵 <a href="https://github.com/Simplypheyie96/vibecafe">VibeCafe</a></td>
-  <td>Music discovery app</td>
-  <td>React · TypeScript</td>
-</tr>
-<tr>
-  <td>🔌 <a href="https://github.com/Simplypheyie96/html-to-figma">HTML to Figma</a></td>
-  <td>Figma plugin — render HTML inside Figma</td>
-  <td>TypeScript · Figma API</td>
-</tr>
-<tr>
-  <td>🌐 <a href="https://github.com/Simplypheyie96/Personal-Portfolio-Freecodecamp">Personal Portfolio</a></td>
-  <td>Personal portfolio site</td>
-  <td>HTML · CSS</td>
-</tr>
-</tbody>
-</table>
+The engineering above is half of it. The design half lives at **[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — nine case studies, including:
+
+| Project | What it is |
+|---|---|
+| **IQ.wiki** | The world's largest blockchain and crypto encyclopedia. Four years leading its design across search, articles, market experiences and editorial infrastructure. |
+| **SOPHIA** | A crypto-native AI editor. Three editing modes — Manual, AI Assisted, Auto Generate — so editors choose their own level of AI involvement rather than having it imposed. |
+| **IQ Dashboard** | Governance for the IQ ecosystem. Staking built around immediate feedback: voting power, position and unlock date update live as you adjust. |
+| **AetherDex** | A privacy-focused cross-chain DEX spanning Ethereum, Solana and Injective, organised so nine major feature areas coexist without overwhelming anyone. |
+
+<sub>Also: <b>AIDEN</b>, an AI agent for blockchain knowledge, and design systems across BrainDAO's products. Free community files at <a href="https://figma.com/@simplypheyie">figma.com/@simplypheyie</a>.</sub>
 
 ---
 
