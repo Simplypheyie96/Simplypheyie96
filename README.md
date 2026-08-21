@@ -66,7 +66,7 @@ I became curious about design long before I knew what product design was. Growin
 
 Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
 
-I also build my own products. Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them.
+I also build and ship my own products. Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them. I am always looking for a new challenge.
 
 I write the HTML and CSS by hand. The framework code I build with AI agents. I direct that work. I do not type it.
 
