@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products+and+ship+them;Apps+that+work+with+no+signal+and+no+account;I+design+AI+products%2C+not+just+use+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products.+I+also+build+my+own.;Apps+that+work+with+no+signal+and+no+account;I+design+AI+products.+I+do+not+just+use+AI." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -66,21 +66,23 @@ I became curious about design long before I knew what product design was. Growin
 
 Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
 
-I also ship them. Several of the products below I designed *and* took all the way to a live, working app — no handoff, no engineer waiting on a spec, nothing lost in translation. I write the HTML and CSS by hand; the rest I build with AI agents, directing the work rather than typing it.
+I also build my own products. Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them.
 
-The part that is mine is the judgement. What the thing is for. What it must never do. Which feature earns its complexity and which one is just flattering to demo. Whether an offline app should be allowed to trust the network at all. When a font licence makes a typeface unusable no matter how good it looks. An agent will build whatever I ask it for, competently and without argument. Knowing what to ask for, and what to refuse, is the whole job.
+I write the HTML and CSS by hand. The framework code I build with AI agents. I direct that work. I do not type it.
 
-Two other things worth separating, because they get confused. I **use** AI in my workflow where it earns its place — exploration, iteration, execution — and I **design** AI products, which is a different discipline entirely: deciding how much control a person keeps, what the machine may do unattended, and how someone reviews output they did not write. SOPHIA and AIDEN are the public examples.
+The judgement is mine. What the product is for. What it must never do. Which features earn their complexity. Whether an offline app should trust the network. When a font licence makes a typeface unusable. An agent builds what I ask for. Deciding what to ask for is the work.
+
+Two things get confused, so I separate them. I **use** AI in my workflow. I also **design** AI products. That second one is its own discipline. It means deciding how much control a person keeps, what the machine may do unattended, and how someone checks output they did not write. SOPHIA and AIDEN are the public examples.
 
 ---
 
 ## 🚀 What I've shipped
 
-My design, my calls, my deploy. Live products, not concepts:
+I designed and shipped each of these. All are live.
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
 
-**[SDA Hymnal](https://sdahymnal.vercel.app)** — both hymnals in one app. 920 entries (695 hymns + 225 worship aids every other app leaves out), 691 recordings, and 278 Yorùbá hymns cross-referenced to their English counterparts so switching language follows the song, not the number. Built for a phone in the pew, a laptop, and a projector at the front of the hall. Fully offline.
+**[SDA Hymnal](https://sdahymnal.vercel.app)** — both hymnals in one app. 920 entries (695 hymns + 225 worship aids every other app leaves out), 691 recordings, and 278 Yorùbá hymns cross-referenced to their English counterparts so switching language keeps the song, and the number changes with it. Built for a phone in the pew, a laptop, and a projector at the front of the hall. Fully offline.
 
 **[IQvote](https://github.com/Simplypheyie96/Iqvote)** — internal voting platform in real use by the BrainDAO product team.
 
@@ -230,7 +232,7 @@ The engineering above is half of it. The design half lives at **[simplypheyie.is
 | Project | What it is |
 |---|---|
 | **IQ.wiki** | The world's largest blockchain and crypto encyclopedia. Four years leading its design across search, articles, market experiences and editorial infrastructure. |
-| **SOPHIA** | A crypto-native AI editor. Three editing modes — Manual, AI Assisted, Auto Generate — so editors choose their own level of AI involvement rather than having it imposed. |
+| **SOPHIA** | A crypto-native AI editor. Three editing modes — Manual, AI Assisted, Auto Generate — so editors set their own level of AI involvement. |
 | **IQ Dashboard** | Governance for the IQ ecosystem. Staking built around immediate feedback: voting power, position and unlock date update live as you adjust. |
 | **AetherDex** | A privacy-focused cross-chain DEX spanning Ethereum, Solana and Injective, organised so nine major feature areas coexist without overwhelming anyone. |
 
