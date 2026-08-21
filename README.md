@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products+and+ship+them;React+%C2%B7+TypeScript+%C2%B7+offline-first+PWAs;I+design+AI+products%2C+not+just+use+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products+and+ship+them;Apps+that+work+with+no+signal+and+no+account;I+design+AI+products%2C+not+just+use+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -47,9 +47,10 @@ const feyikemi = {
   building    : ["Offline-first PWAs", "Design systems", "Figma plugins"],
   skills      : {
     design  : ["Figma", "UX Research", "Prototyping", "Design Systems"],
-    frontend: ["React", "TypeScript", "HTML/CSS", "Tailwind", "Motion"],
-    backend : ["Supabase", "Node.js", "Hono", "Serverless functions"],
-    tools   : ["Git", "Vercel", "Vite", "shadcn/ui", "Notion", "FigJam"]
+    handsOn : ["HTML", "CSS"],
+    directs : ["Frontend builds", "Offline-first architecture", "Deploys"],
+    decides : ["What ships", "What gets cut", "How it should behave"],
+    tools   : ["Git", "Vercel", "Claude Code", "Notion", "FigJam"]
   },
   funFact     : "Left-handed in a right-handed world — " +
                 "it's why I design for everyone 🌍",
@@ -65,7 +66,9 @@ I became curious about design long before I knew what product design was. Growin
 
 Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
 
-I also build them. Several of the products below I designed *and* shipped myself — front to back, in React and TypeScript, down to the deployed PWA. That means the design decision and the implementation are the same decision, with no handoff in between and nothing lost in translation.
+I also ship them. Several of the products below I designed *and* took all the way to a live, working app — no handoff, no engineer waiting on a spec, nothing lost in translation. I write the HTML and CSS by hand; the rest I build with AI agents, directing the work rather than typing it.
+
+The part that is mine is the judgement. What the thing is for. What it must never do. Which feature earns its complexity and which one is just flattering to demo. Whether an offline app should be allowed to trust the network at all. When a font licence makes a typeface unusable no matter how good it looks. An agent will build whatever I ask it for, competently and without argument. Knowing what to ask for, and what to refuse, is the whole job.
 
 Two other things worth separating, because they get confused. I **use** AI in my workflow where it earns its place — exploration, iteration, execution — and I **design** AI products, which is a different discipline entirely: deciding how much control a person keeps, what the machine may do unattended, and how someone reviews output they did not write. SOPHIA and AIDEN are the public examples.
 
@@ -73,25 +76,19 @@ Two other things worth separating, because they get confused. I **use** AI in my
 
 ## 🚀 What I've shipped
 
-Designed **and** built by me, front to back:
+My design, my calls, my deploy. Live products, not concepts:
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
-<br/><sub>`PWA` `local-first storage` `offline` `open catalogue APIs`</sub>
 
 **[SDA Hymnal](https://sdahymnal.vercel.app)** — both hymnals in one app. 920 entries (695 hymns + 225 worship aids every other app leaves out), 691 recordings, and 278 Yorùbá hymns cross-referenced to their English counterparts so switching language follows the song, not the number. Built for a phone in the pew, a laptop, and a projector at the front of the hall. Fully offline.
-<br/><sub>`React` `TypeScript` `PWA` `service workers` `audio playback`</sub>
 
 **[IQvote](https://github.com/Simplypheyie96/Iqvote)** — internal voting platform in real use by the BrainDAO product team.
-<br/><sub>`React` `Supabase` `Vite`</sub>
 
 **[html-to-figma](https://github.com/Simplypheyie96/html-to-figma)** — Figma plugin that imports any webpage as editable Figma frames. Tooling for other designers.
-<br/><sub>`TypeScript` `Figma Plugin API`</sub>
 
 **[VibeCafe](https://github.com/Simplypheyie96/VibeCafe)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
-<br/><sub>`React` `TypeScript`</sub>
 
 **[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — this portfolio. 5,000+ hand-written lines of CSS, a serverless Goodreads feed that is edge-cached and falls back to baked-in values so the card is never empty or wrong, and generative lofi synthesised in the Web Audio API so the site ships zero audio assets.
-<br/><sub>`React 19` `TypeScript` `Vite 8` `Motion` `Vercel functions` `Web Audio API`</sub>
 
 ---
 
@@ -177,18 +174,15 @@ Designed **and** built by me, front to back:
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ What I work in
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -196,11 +190,10 @@ Designed **and** built by me, front to back:
 
 <table border="0" cellspacing="8" cellpadding="0" width="100%">
 <tr>
-<td width="55%"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
-<td width="45%"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Simplypheyie96&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" width="100%" /></td>
+<td><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Simplypheyie96&show_icons=true&theme=tokyonight&border_color=a855f7&ring_color=a855f7&icon_color=a855f7" width="100%" /></td>
 </tr>
 <tr>
-<td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simplypheyie96&theme=tokyonight&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" /></td>
 </tr>
 </table>
 
