@@ -11,7 +11,7 @@
 
 <h3>Hey there! This is Feyikemi Mabel 👋🏽😊</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Digital+Product+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products.+I+also+build+my+own.;Apps+that+work+with+no+signal+and+no+account;I+design+AI+products.+I+do+not+just+use+AI." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A855F7&center=false&vCenter=true&width=600&lines=Software+Designer+%C3%97+Design+Engineer;Lead+Product+Designer+at+IQ.wiki;I+design+complex+products.+I+also+build+my+own.;Apps+that+work+with+no+signal+and+no+account;I+design+AI+products.+I+do+not+just+use+AI." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 ```javascript
 const feyikemi = {
-  title       : "Digital Product Designer & Design Engineer",
+  title       : "Software Designer & Design Engineer",
   role        : "Lead Product Designer",
   workplace   : "IQ.wiki (BrainDAO)",
   since       : 2021,
