@@ -98,7 +98,7 @@ I designed and shipped each of these. All are live.
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*A Fire Endless* — Rebecca   Ross<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*The Incandescent* — Emily  Tesh<!-- GOODREADS-CURRENTLY-READING:END --></td>
   <td width="400" valign="top">🧠 <b>Exploring</b><br/>Local-first architecture &amp; offline sync</td>
 </tr>
 <tr>
