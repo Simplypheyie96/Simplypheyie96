@@ -235,7 +235,7 @@ The engineering above is half of it. The design half lives at **[simplypheyie.is
 |---|---|
 | **IQ.wiki** | The world's largest blockchain and crypto encyclopedia. Four years leading its design across search, articles, market experiences and editorial infrastructure. |
 | **SOPHIA** | A crypto-native AI editor. Three editing modes — Manual, AI Assisted, Auto Generate — so editors set their own level of AI involvement. |
-| **IQ Dashboard** | Governance for the IQ ecosystem. Staking built around immediate feedback: voting power, position and unlock date update live as you adjust. |
+| **[Flyleaf](https://flyleaf.cc)** | A private journal for your reading life, designed local-first from the start: no account, no server, nothing leaves the device. Every screen was made for a phone with no signal, then built and shipped by me. |
 | **AetherDex** | A privacy-focused cross-chain DEX spanning Ethereum, Solana and Injective, organised so nine major feature areas coexist without overwhelming anyone. |
 
 <sub>Also: <b>AIDEN</b>, an AI agent for blockchain knowledge, and design systems across BrainDAO's products. Free community files at <a href="https://figma.com/@simplypheyie">figma.com/@simplypheyie</a>.</sub>
