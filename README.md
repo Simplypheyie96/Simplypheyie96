@@ -82,9 +82,13 @@ I designed and shipped each of these. All are live.
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
 
+**[Flyleaf Press](https://github.com/Simplypheyie96/flyleaf-press)** — write long book reviews and share them whole, as printed-looking cards that split to a second page at a paragraph boundary. Ten card styles, monthly collages, fully offline.
+
+**[Flyleaf eReader](https://read.flyleaf.cc)** — opens EPUB, MOBI, AZW3, FB2, PDF and more, paginated by default. Library, positions, highlights and notes stay on the device.
+
 **[SDA Hymnal](https://sdahymnal.vercel.app)** — both hymnals in one app. 920 entries (695 hymns + 225 worship aids every other app leaves out), 691 recordings, and 278 Yorùbá hymns cross-referenced to their English counterparts so switching language keeps the song, and the number changes with it. Built for a phone in the pew, a laptop, and a projector at the front of the hall. Fully offline.
 
-**[IQvote](https://github.com/Simplypheyie96/Iqvote)** — internal voting platform in real use by the BrainDAO product team.
+**IQvote** — internal voting platform in real use by the BrainDAO product team. Private repo; ask me for a walkthrough.
 
 **[html-to-figma](https://github.com/Simplypheyie96/html-to-figma)** — Figma plugin that imports any webpage as editable Figma frames. Tooling for other designers.
 
