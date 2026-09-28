@@ -41,7 +41,7 @@ const feyikemi = {
   aiCraft     : {
     design    : "AI-native product design — LLM interaction models, " +
                 "agentic UX & intelligent interfaces",
-    shipped   : ["SOPHIA — AI editor for IQ.wiki", "AIDEN — blockchain AI agent"],
+    shipped   : ["SOPHIA — AI editor for IQ.wiki"],
     tooling   : "Fluent with AI agents: Claude Code · Cursor AI · Copilot"
   },
   building    : ["Offline-first PWAs", "Design systems", "Figma plugins"],
@@ -72,7 +72,7 @@ I write the HTML and CSS by hand. The framework code I build with AI agents. I d
 
 The judgement is mine. What the product is for. What it must never do. Which features earn their complexity. Whether an offline app should trust the network. When a font licence makes a typeface unusable. An agent builds what I ask for. Deciding what to ask for is the work.
 
-Two things get confused, so I separate them. I **use** AI in my workflow. I also **design** AI products. That second one is its own discipline. It means deciding how much control a person keeps, what the machine may do unattended, and how someone checks output they did not write. SOPHIA and AIDEN are the public examples.
+Two things get confused, so I separate them. I **use** AI in my workflow. I also **design** AI products. That second one is its own discipline. It means deciding how much control a person keeps, what the machine may do unattended, and how someone checks output they did not write. SOPHIA is the public example.
 
 ---
 
@@ -229,7 +229,7 @@ I designed and shipped each of these. All are live.
 
 ## 🎨 Design work
 
-The engineering above is half of it. The design half lives at **[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — nine case studies, including:
+The engineering above is half of it. The design half lives at **[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — nine case studies. Some of what I've designed:
 
 | Project | What it is |
 |---|---|
@@ -238,7 +238,7 @@ The engineering above is half of it. The design half lives at **[simplypheyie.is
 | **[Flyleaf](https://flyleaf.cc)** | A private journal for your reading life, designed local-first from the start: no account, no server, nothing leaves the device. Every screen was made for a phone with no signal, then built and shipped by me. |
 | **AetherDex** | A privacy-focused cross-chain DEX spanning Ethereum, Solana and Injective, organised so nine major feature areas coexist without overwhelming anyone. |
 
-<sub>Also: <b>AIDEN</b>, an AI agent for blockchain knowledge, and design systems across BrainDAO's products. Free community files at <a href="https://figma.com/@simplypheyie">figma.com/@simplypheyie</a>.</sub>
+<sub>Also: design systems across BrainDAO's products. Free community files at <a href="https://figma.com/@simplypheyie">figma.com/@simplypheyie</a>.</sub>
 
 ---
 
