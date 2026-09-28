@@ -220,11 +220,9 @@ I designed and shipped each of these. All are live.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Simplypheyie96/Iqvote/pull/19) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-2. 💪 Opened PR [#19](https://github.com/Simplypheyie96/Iqvote/pull/19) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-3. 🎉 Merged PR [#17](https://github.com/Simplypheyie96/Iqvote/pull/17) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-4. 💪 Opened PR [#17](https://github.com/Simplypheyie96/Iqvote/pull/17) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
-5. 🎉 Merged PR [#16](https://github.com/Simplypheyie96/Iqvote/pull/16) in [Simplypheyie96/Iqvote](https://github.com/Simplypheyie96/Iqvote)
+1. 🎉 Merged PRs #16, #17 and #19 in **Iqvote** (private repo)
+2. 🚀 Made **flyleaf-press** public
+3. 📝 Refreshed this profile
 <!--END_SECTION:activity-->
 
 ---
