@@ -103,8 +103,6 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 
 **[VibeCafe](https://github.com/Simplypheyie96/VibeCafe)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
 
-**[feyidesigns.com](https://feyidesigns.com)** — this portfolio. 5,000+ hand-written lines of CSS, a serverless Goodreads feed that is edge-cached and falls back to baked-in values so the card is never empty or wrong, and generative lofi synthesised in the Web Audio API so the site ships zero audio assets.
-
 ---
 
 ## 🌙 Currently
