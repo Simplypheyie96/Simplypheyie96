@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://simplypheyie.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
+<a href="https://feyidesigns.com"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat&logo=safari&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/feyikemi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -44,7 +44,8 @@ const feyikemi = {
     shipped   : ["SOPHIA — AI editor for IQ.wiki"],
     tooling   : "Fluent with AI agents: Claude Code · Cursor AI · Copilot"
   },
-  building    : ["Offline-first PWAs", "Design systems", "Figma plugins"],
+  building    : ["Naija Farm (3D browser game)", "Offline-first PWAs",
+                "Design systems", "Figma plugins"],
   skills      : {
     design  : ["Figma", "UX Research", "Prototyping", "Design Systems"],
     handsOn : ["HTML", "CSS"],
@@ -54,7 +55,7 @@ const feyikemi = {
   },
   funFact     : "Left-handed in a right-handed world — " +
                 "it's why I design for everyone 🌍",
-  portfolio   : "https://simplypheyie.is-a.dev"
+  portfolio   : "https://feyidesigns.com"
 };
 ```
 
@@ -66,7 +67,7 @@ I became curious about design long before I knew what product design was. Growin
 
 Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
 
-I also build and ship my own products. Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them. I am always looking for a new challenge.
+I also build and ship my own products. Naija Farm, Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them. I am always looking for a new challenge.
 
 I write the HTML and CSS by hand. The framework code I build with AI agents. I direct that work. I do not type it.
 
@@ -79,6 +80,14 @@ Two things get confused, so I separate them. I **use** AI in my workflow. I also
 ## 🚀 What I've shipped
 
 I designed and shipped each of these. All are live.
+
+### ⭐ Featured: [Naija Farm](https://naijafarm.feyidesigns.com)
+
+A free Nigerian farming game that runs in the browser on a phone or a computer. No download, no account needed to start. Plant ugu, maize, yam, cassava and rice. Raise catfish, poultry, goats and cattle. Build factories for garri, feed and ogi. Then ride a danfo, keke or okada to the market and haggle with traders over what you grew. Fifty levels, farm helpers, machines and new land as you grow. You can visit other farmers, chat in the forum, swap goods and send gifts. Everyone in the world is a 3D figure built in code, each with their own face, build, outfit and hair, and you style your own farmer. It's also listed on Oya Jam. iOS and Android store builds are on the way.
+
+**[▶ Play Naija Farm](https://naijafarm.feyidesigns.com)**
+
+### Also shipped
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
 
@@ -93,8 +102,6 @@ I designed and shipped each of these. All are live.
 **[html-to-figma](https://github.com/Simplypheyie96/html-to-figma)** — Figma plugin that imports any webpage as editable Figma frames. Tooling for other designers.
 
 **[VibeCafe](https://github.com/Simplypheyie96/VibeCafe)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
-
-**[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — this portfolio. 5,000+ hand-written lines of CSS, a serverless Goodreads feed that is edge-cached and falls back to baked-in values so the card is never empty or wrong, and generative lofi synthesised in the Web Audio API so the site ships zero audio assets.
 
 ---
 
@@ -220,8 +227,8 @@ I designed and shipped each of these. All are live.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PRs #16, #17 and #19 in **Iqvote** (private repo)
-2. 🚀 Made **flyleaf-press** public
+1. 🌾 Shipped **Naija Farm**, a Nigerian farming game, live at [naijafarm.feyidesigns.com](https://naijafarm.feyidesigns.com)
+2. 📚 Kept shipping updates to **Flyleaf**, **Flyleaf Press**, **Flyleaf eReader** and **SDA Hymnal**
 3. 📝 Refreshed this profile
 <!--END_SECTION:activity-->
 
@@ -229,7 +236,7 @@ I designed and shipped each of these. All are live.
 
 ## 🎨 Design work
 
-The engineering above is half of it. The design half lives at **[simplypheyie.is-a.dev](https://simplypheyie.is-a.dev)** — nine case studies. Some of what I've designed:
+The engineering above is half of it. The design half lives at **[feyidesigns.com](https://feyidesigns.com)** — nine case studies. Some of what I've designed:
 
 | Project | What it is |
 |---|---|
@@ -250,7 +257,7 @@ The engineering above is half of it. The design half lives at **[simplypheyie.is
 <a href="https://twitter.com/Simplypheyie">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://simplypheyie.is-a.dev">
+<a href="https://feyidesigns.com">
   <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 <a href="https://github.com/Simplypheyie96">
@@ -264,7 +271,7 @@ The engineering above is half of it. The design half lives at **[simplypheyie.is
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif" width="250" alt="Blackpink Lisa" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=A855F7&center=true&vCenter=true&width=540&lines=Let%27s+build+something+unforgettable+together;Open+to+design+%26+AI+product+collaborations;Find+me+on+LinkedIn+%E2%80%94+let%27s+connect;Explore+my+portfolio+%E2%86%92+simplypheyie.is-a.dev;Designing+thoughtfully%2C+building+intentionally;Reach+out+%E2%80%94+I%27d+love+to+hear+from+you" alt="Let's connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1400&color=A855F7&center=true&vCenter=true&width=540&lines=Let%27s+build+something+unforgettable+together;Open+to+design+%26+AI+product+collaborations;Find+me+on+LinkedIn+%E2%80%94+let%27s+connect;Explore+my+portfolio+%E2%86%92+feyidesigns.com;Designing+thoughtfully%2C+building+intentionally;Reach+out+%E2%80%94+I%27d+love+to+hear+from+you" alt="Let's connect" />
 </div>
 
 <br/>
