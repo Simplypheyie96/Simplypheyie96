@@ -44,7 +44,8 @@ const feyikemi = {
     shipped   : ["SOPHIA — AI editor for IQ.wiki"],
     tooling   : "Fluent with AI agents: Claude Code · Cursor AI · Copilot"
   },
-  building    : ["Offline-first PWAs", "Design systems", "Figma plugins"],
+  building    : ["Naija Farm (3D browser game)", "Offline-first PWAs",
+                "Design systems", "Figma plugins"],
   skills      : {
     design  : ["Figma", "UX Research", "Prototyping", "Design Systems"],
     handsOn : ["HTML", "CSS"],
@@ -66,7 +67,7 @@ I became curious about design long before I knew what product design was. Growin
 
 Today, I design complex digital products with a focus on clarity, structure, and usability. I enjoy working through ambiguity, simplifying complex systems, and shaping experiences that feel intuitive without sacrificing depth.
 
-I also build and ship my own products. Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them. I am always looking for a new challenge.
+I also build and ship my own products. Naija Farm, Flyleaf, SDA Hymnal and VibeCafe are mine. I designed them, built them, and shipped them. They are live and people use them. I am always looking for a new challenge.
 
 I write the HTML and CSS by hand. The framework code I build with AI agents. I direct that work. I do not type it.
 
@@ -79,6 +80,14 @@ Two things get confused, so I separate them. I **use** AI in my workflow. I also
 ## 🚀 What I've shipped
 
 I designed and shipped each of these. All are live.
+
+### ⭐ Featured: [Naija Farm](https://naijafarm.feyidesigns.com)
+
+A free Nigerian farming game that runs in the browser on a phone or a computer. No download, no account needed to start. Plant ugu, maize, yam, cassava and rice. Raise catfish, poultry, goats and cattle. Build factories for garri, feed and ogi. Then ride a danfo, keke or okada to the market and haggle with traders over what you grew. Fifty levels, farm helpers, machines and new land as you grow. You can visit other farmers, chat in the forum, swap goods and send gifts. Everyone in the world is a 3D figure built in code, each with their own face, build, outfit and hair, and you style your own farmer. It's also listed on Oya Jam. iOS and Android store builds are on the way.
+
+**[▶ Play Naija Farm](https://naijafarm.feyidesigns.com)**
+
+### Also shipped
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
 
@@ -220,8 +229,8 @@ I designed and shipped each of these. All are live.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PRs #16, #17 and #19 in **Iqvote** (private repo)
-2. 🚀 Made **flyleaf-press** public
+1. 🌾 Shipped **Naija Farm**, a Nigerian farming game, live at [naijafarm.feyidesigns.com](https://naijafarm.feyidesigns.com)
+2. 📚 Kept shipping updates to **Flyleaf**, **Flyleaf Press**, **Flyleaf eReader** and **SDA Hymnal**
 3. 📝 Refreshed this profile
 <!--END_SECTION:activity-->
 
