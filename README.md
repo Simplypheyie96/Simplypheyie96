@@ -91,7 +91,7 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 
 **[Flyleaf](https://flyleaf.cc)** — a private journal for your reading life. Local-first: no account, no server, nothing leaving your device. Book covers resolve from open catalogues with an original generated jacket when no real one exists. Installs as a PWA on Android and iOS, works fully offline.
 
-**[Flyleaf Press](https://github.com/Simplypheyie96/flyleaf-press)** — write long book reviews and share them whole, as printed-looking cards that split to a second page at a paragraph boundary. Ten card styles, monthly collages, fully offline.
+**[Flyleaf Press](https://press.flyleaf.cc)** — write long book reviews and share them whole, as printed-looking cards that split to a second page at a paragraph boundary. Ten card styles, monthly collages, fully offline.
 
 **[Flyleaf eReader](https://read.flyleaf.cc)** — opens EPUB, MOBI, AZW3, FB2, PDF and more, paginated by default. Library, positions, highlights and notes stay on the device.
 
@@ -101,7 +101,9 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 
 **[html-to-figma](https://github.com/Simplypheyie96/html-to-figma)** — Figma plugin that imports any webpage as editable Figma frames. Tooling for other designers.
 
-**[VibeCafe](https://github.com/Simplypheyie96/VibeCafe)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
+**[VibeCafe](https://vibecafe.vercel.app)** — a lofi space where you compose your own atmosphere. Nine scenes, freely mixable ambient layers, playlist support across four services.
+
+**[feyidesigns.com](https://feyidesigns.com)** — this portfolio. 5,000+ hand-written lines of CSS, a serverless Goodreads feed that is edge-cached and falls back to baked-in values so the card is never empty or wrong, and generative lofi synthesised in the Web Audio API so the site ships zero audio assets.
 
 ---
 
