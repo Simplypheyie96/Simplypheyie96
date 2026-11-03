@@ -1,0 +1,64 @@
+name: Update Currently Reading
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # runs once a day at 06:00 UTC
+  workflow_dispatch:      # allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Pagebound currently reading and update README
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import re
+          import urllib.request
+
+          # Public profile endpoint behind pagebound.co/users/Simplypheyie (no login needed)
+          url = "https://prod-pagebound-api.onrender.com/api/v1/users/Simplypheyie"
+          req = urllib.request.Request(url, headers={"Accept": "application/json"})
+
+          # The API sleeps when idle, so give it time to wake up
+          with urllib.request.urlopen(req, timeout=90) as response:
+              user = json.load(response)
+
+          progress = {str(p["book_id"]): p.get("total_progress") for p in user.get("current_progress") or []}
+
+          books = []
+          for book in user["currently_reading"]:
+              entry = f"*{book['title'].strip()}*"
+              percent = progress.get(str(book["id"]))
+              if percent:
+                  entry += f" · {percent}%"
+              books.append(entry)
+
+          replacement = " &amp; ".join(books) if books else "Between books 📖"
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          pattern = r'(<!-- CURRENTLY-READING:START -->).*?(<!-- CURRENTLY-READING:END -->)'
+          new_readme = re.sub(pattern, lambda m: m.group(1) + replacement + m.group(2), readme, flags=re.DOTALL)
+
+          if new_readme == readme:
+              print("No change detected.")
+          else:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_readme)
+              print(f"Updated to: {replacement}")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "Nothing to commit" || \
+            (git commit -m "📚 update: currently reading from Pagebound" && git push)

@@ -111,7 +111,7 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- GOODREADS-CURRENTLY-READING:START -->*The Heir Apparent* — Rebecca Armitage<!-- GOODREADS-CURRENTLY-READING:END --></td>
+  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- CURRENTLY-READING:START -->*The Heir Apparent* — Rebecca Armitage<!-- CURRENTLY-READING:END --></td>
   <td width="400" valign="top">🧠 <b>Exploring</b><br/>Local-first architecture &amp; offline sync</td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 </tr>
 </table>
 
-<sub><i>📚 Reading updates automatically from <a href="https://www.goodreads.com/review/list/79687941-simplypheyie">Goodreads</a> every day</i></sub>
+<sub><i>📚 Reading updates automatically from <a href="https://pagebound.co/users/Simplypheyie">Pagebound</a> every day</i></sub>
 
 ---
 
