@@ -111,7 +111,7 @@ A free Nigerian farming game that runs in the browser on a phone or a computer. 
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
-  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- CURRENTLY-READING:START -->*Buckeye* · 75%<!-- CURRENTLY-READING:END --></td>
+  <td width="400" valign="top">📚 <b>Reading</b><br/><!-- CURRENTLY-READING:START -->*Buckeye* · 87%<!-- CURRENTLY-READING:END --></td>
   <td width="400" valign="top">🧠 <b>Exploring</b><br/>Local-first architecture &amp; offline sync</td>
 </tr>
 <tr>
